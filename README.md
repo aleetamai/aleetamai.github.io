@@ -28,7 +28,9 @@ under the supervision of Antonio Lerario._
 >_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
 >_James Joseph Sylvester_
 
-
+\
+\
+\
 ## Research Interests:
 
 My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.
