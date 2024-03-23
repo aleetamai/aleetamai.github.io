@@ -11,8 +11,8 @@ under the supervision of Antonio Lerario._
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="250" />
 
 
->The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred.
->James Joseph Sylvester
+>_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
+>_James Joseph Sylvester_
 
 
 ## Research Interests:
