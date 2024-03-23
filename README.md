@@ -1,5 +1,4 @@
-
-% commento
+<!-- Here we duind the menu-->
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#news">News</a>
