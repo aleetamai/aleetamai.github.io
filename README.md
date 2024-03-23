@@ -22,14 +22,13 @@ under the supervision of Antonio Lerario._
 >_James Joseph Sylvester_
 
 <br>
-<body style="margin:0;padding:0">
 
 ## Research Interests:
 
 My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.   
                                                                                                                                
 Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
-<body>
+
 
 
 ## Contacts:
