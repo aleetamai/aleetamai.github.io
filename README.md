@@ -2,9 +2,6 @@
 # Alessandro Tamai
 
 
-<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" width="250"/>
-
-
 <img align="left" width="200" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
 
 # Headline 
