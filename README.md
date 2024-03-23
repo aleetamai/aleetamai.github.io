@@ -17,6 +17,6 @@ Other interests cover differential topology, Riemannian and subRiemannian geomet
 
 ## Contacts:
 
-email: $\quad$ atamai @ sissa.it
+email:  atamai@sissa.it
 \
 office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
