@@ -2,8 +2,6 @@
 # Alessandro Tamai
 
 
-
-
 ​Ph.D. student at SISSA  in Geometry and Mathematical Physics, under the supervision of Antonio Lerario.
 
 
