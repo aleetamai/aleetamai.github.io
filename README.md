@@ -19,7 +19,6 @@ under the supervision of Antonio Lerario._
 
 
 
-
 </h1>
 
 
