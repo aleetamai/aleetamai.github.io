@@ -19,10 +19,10 @@
 <br>
 <br>
 
-​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
+​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics,_ 
 <br> 
 
-under the supervision of Antonio Lerario._
+_under the supervision of Antonio Lerario._
 
 <br>
 
