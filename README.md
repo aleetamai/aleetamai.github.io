@@ -1,12 +1,13 @@
 
 # Alessandro Tamai
 
-![logo](/docs/assets/images/lie_groups.png)
+![liegroups](/docs/assets/images/lie_groups.png)
 
 
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
 under the supervision of Antonio Lerario._
 
+![logo](/docs/assets/images/sissalogo.png)
 
 ## Research Interests:
 
