@@ -1,8 +1,6 @@
 <!-- Here we duind the menu-->
 
-body {
-    background-color: lightblue;
-}
+<body bgcolor="blue">
 
 
 
