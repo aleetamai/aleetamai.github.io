@@ -24,7 +24,7 @@ under the supervision of Antonio Lerario._
 >_James Joseph Sylvester_
 
 <br>
-<body>
+<body style="margin:0;padding:0">
 
 ## Research Interests:
 
