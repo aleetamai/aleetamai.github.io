@@ -1,6 +1,9 @@
 
 # Alessandro Tamai
 
+![logo](aleetamai.github.io/docs/assets/images
+/lie groups.png=50x50)
+
 
 ​Ph.D. student at [SISSA](https://www.sissa.it)  in Geometry and Mathematical Physics, 
 under the supervision of Antonio Lerario.
@@ -14,8 +17,7 @@ My main research interest are on metric geometry, Morse theory and optimal trans
 \
 Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
 
-![logo](aleetamai.github.io/docs/assets/images
-/lie groups.png)
+
 
 ## Contacts:
 
