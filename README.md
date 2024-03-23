@@ -11,12 +11,9 @@
 
 <img align="left" width="450" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
 
-
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="180" />
 
 ---------
-
-<br>
 
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
