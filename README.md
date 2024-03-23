@@ -66,3 +66,23 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
   </div>
 </div>
 
+
+<div class="container">
+  <div class="left">
+    
+# Left Section Header
+
+Left side content goes here
+
+  </div>
+  <div class="right">
+    
+# Right Section Header
+
+Right side content goes here
+
+  </div>
+</div>
+
+
+
