@@ -11,8 +11,8 @@
 - Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
 - Master's degree in Mathematics,_University of Trieste, Trieste (Italy), 2017-2020_
 - Bachelor's degree in Mathematics, _University of Trieste, Trieste, Italy, 2014-2017_
-- Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017
-- Diploma of Perito Chimico, Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014
+- Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", _Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017_
+- Diploma of Perito Chimico, _Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014_
 
 ## University Projects and Thesis
 
@@ -32,15 +32,15 @@
 - Presentation of the research work's results: description of the geometric spaces of singular solutions, their topological properties and their relation with lens spaces.
 
 ## Attended Conferences and Schools
-- From Statistical Physics to Random Geometry, SISSA Trieste, September 2023
-- High Dimensional Statistics and Random Matrices, Porquerolles, Jun 15, 2023
-- Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference, ICTP Trieste (Italy) 16 / 05 / 2022 \text { - 20/05/2022 }
+- From Statistical Physics to Random Geometry, _SISSA Trieste, September 2023_
+- High Dimensional Statistics and Random Matrices, _Porquerolles, Jun 15, 2023_
+- Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference, _ICTP Trieste (Italy) 16 / 05 / 2022 \text { - 20/05/2022 }_
 
 ## Seminars (Speaker)
-- "Singular Solutions of Rolling Balls Problem", Geometric Structures Seminars, January 12, 2021, SISSA, Trieste, Italy
-- "Singular Solutions of Rolling Balls Problem", Geometry and Dynamical System Seminar, UPC, Barcelona, Spain, April 19/2021
+- "Singular Solutions of Rolling Balls Problem", _Geometric Structures Seminars, January 12, 2021, SISSA, Trieste, Italy_
+- "Singular Solutions of Rolling Balls Problem", _Geometry and Dynamical System Seminar, UPC, Barcelona, Spain, April 19/2021_
 
 ## Work Experience
-- Exerciser of Geometria 1 (Linear Algebra), Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)
-- Exerciser of Geometria 3B (Topology), Universita' degli Studi di Trieste, March 2019- June 2019, Trieste (Italia)
-- Exerciser of Analisi 1 (Calculus), Università degli Studi di Trieste, October 2018- January 2019 Trieste (Italia)
+- Exerciser of Geometria 1 (Linear Algebra), _Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)_
+- Exerciser of Geometria 3B (Topology), _Universita' degli Studi di Trieste, March 2019- June 2019, Trieste (Italia)_
+- Exerciser of Analisi 1 (Calculus), _Università degli Studi di Trieste, October 2018- January 2019 Trieste (Italia)_
