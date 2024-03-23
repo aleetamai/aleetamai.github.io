@@ -1,11 +1,15 @@
 <!-- Here we duind the menu-->
 
 
+<p style="text-align: center;">
+
 <div class="topnav">
   <a href="https://aleetamai.github.io">Home</a>
   <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
   <a href="https://www.sissa.it">SISSA</a>
 </div>
+
+</p>
 
   
 
@@ -41,8 +45,6 @@ email:  atamai@sissa.it
 <br>
 office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
-
-<p style="text-align: center;">A piece of centered text</p>
 
 <div style="display: flex;">
   <div style="flex: 50%; padding: 10px;">
