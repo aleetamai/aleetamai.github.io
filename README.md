@@ -24,8 +24,8 @@ under the supervision of Antonio Lerario._
 >_James Joseph Sylvester_
 
 <br>
-
 <body>
+
 ## Research Interests:
 
 My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.   |
