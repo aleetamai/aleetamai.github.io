@@ -13,7 +13,7 @@
 
 <br>
 
-<img align="left" width="450" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
+<img align="left" width="450" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/Lie_groups.png" />
 
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="180" />
 
