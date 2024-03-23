@@ -1,5 +1,18 @@
 <!-- Here we duind the menu-->
 
+body {
+    background-color: #6B6B6B;
+    margin: 50px;
+    
+    font-family: Arial;
+    color: white;
+    font-size: 14px;
+    font-weight: 100;
+    line-height: .2;
+    letter-spacing: 1px;
+}
+
+
 
 <div class="container">
   <div class="center">
