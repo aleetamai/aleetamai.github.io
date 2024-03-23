@@ -1,12 +1,11 @@
 <!-- Here we duind the menu-->
-ul {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#Research Overview">Research Overview</a>
   <a href="#Talks & Career">Talks & Career</a>
   <a href="#SISSA">SISSA</a>
 </div>
-}
+
 
 <br>
 
