@@ -1,17 +1,22 @@
 <!-- Here we duind the menu-->
 
 
-<p style="text-align: center;">
+<div class="container">
+  <div class="center">
 
-<div class="topnav">
+  <div class="topnav">
   <a href="https://aleetamai.github.io">Home</a>
   <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
   <a href="https://www.sissa.it">SISSA</a>
+  </div>
+  
+  </div>
 </div>
 
-</p>
 
-  
+
+
+
 
 <br>
 
