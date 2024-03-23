@@ -4,9 +4,8 @@
 
 <img align="left" width="200" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
 
-# Headline 
-
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
+\
 under the supervision of Antonio Lerario._
 
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="250" />
