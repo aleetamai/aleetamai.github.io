@@ -44,3 +44,6 @@
 - Exerciser of Geometria 1 (Linear Algebra), _Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)_
 - Exerciser of Geometria 3B (Topology), _Universita' degli Studi di Trieste, March 2019- June 2019, Trieste (Italia)_
 - Exerciser of Analisi 1 (Calculus), _Università degli Studi di Trieste, October 2018- January 2019 Trieste (Italia)_
+
+<img align="left" width="450" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
+
