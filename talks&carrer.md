@@ -34,7 +34,7 @@
 ## Attended Conferences and Schools
 - From Statistical Physics to Random Geometry, _SISSA Trieste, September 2023_
 - High Dimensional Statistics and Random Matrices, _Porquerolles, Jun 15, 2023_
-- Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference, _ICTP Trieste (Italy) 16 / 05 / 2022 \text { - 20/05/2022 }_
+- Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference, _ICTP Trieste (Italy) 16 / 05 / 2022 20/05/2022_
 
 ## Seminars (Speaker)
 - "Singular Solutions of Rolling Balls Problem", _Geometric Structures Seminars, January 12, 2021, SISSA, Trieste, Italy_
