@@ -2,7 +2,7 @@
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="#Research Overview">Research Overview</a>
-  <a href="[#Talks & Career](https://www.sissa.it)">Talks & Career</a>
+  <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
   <a href="https://www.sissa.it">SISSA</a>
 </div>
 
