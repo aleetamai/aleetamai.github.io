@@ -22,7 +22,7 @@
 
 >_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
 ><br>
->_James Joseph Sylvester_
+>James Joseph Sylvester
 
 <br>
 <br>
