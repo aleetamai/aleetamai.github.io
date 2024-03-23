@@ -8,7 +8,7 @@
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="200" />
 
 ---------
-\
+
 \
 \
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
