@@ -44,3 +44,12 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
 <p style="text-align: center;">A piece of centered text</p>
 
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+    Left side content goes here
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    Right side content goes here
+  </div>
+</div>
+
