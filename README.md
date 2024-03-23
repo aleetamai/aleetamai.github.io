@@ -1,7 +1,7 @@
 
 # Alessandro Tamai
 
-![logo](aleetamai.github.io/docs/assets/images/lie groups.png=150x150)
+![logo](aleetamai.github.io/docs/assets/images/lie groups.png)
 
 
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
