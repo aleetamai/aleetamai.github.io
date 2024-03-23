@@ -1,6 +1,6 @@
 <!-- Here we duind the menu-->
 
-<body bgcolor="blue">
+<span style="background-color:green">
 
 
 
