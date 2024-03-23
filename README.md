@@ -15,7 +15,7 @@
 
 <img align="left" width="450" src="assets/Lie_groups.png" />
 
-<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/assets/sissalogo.png" width="180" />
+<img src="assets/sissalogo.png" width="180" />
 
 ---------
 
