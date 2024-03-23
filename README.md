@@ -38,17 +38,11 @@
 <br>
 <br>
 
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
-    
 ## Research Interests:
 My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.   
                                                                                                                                
 Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
   
-  
-  </div>
-  <div style="flex: 50%; padding: 10px;">
 
 ## Contacts:
 
@@ -56,38 +50,6 @@ email:  atamai@sissa.it
 <br>
 office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
-  </div>
-</div>
-
-
-
-
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
-    Left side content goes here
-  </div>
-  <div style="flex: 50%; padding: 10px;">
-    Right side content goes here
-  </div>
-</div>
-
-
-<div class="container">
-  <div class="left">
-    
-# Left Section Header
-
-Left side content goes here
-
-  </div>
-  <div class="right">
-    
-# Right Section Header
-
-Right side content goes here
-
-  </div>
-</div>
 
 
 
