@@ -14,7 +14,8 @@ My main research interest are on metric geometry, Morse theory and optimal trans
 \
 Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
 
-![logo](/docs/assets/images/lie groups.png)
+![logo](aleetamai.github.io/docs/assets/images
+/lie groups.png)
 
 ## Contacts:
 
