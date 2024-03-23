@@ -19,15 +19,17 @@
 
 <br>
 <br>
+
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
 <br> 
+
 under the supervision of Antonio Lerario._
 
 <br>
 
 >_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
 >_James Joseph Sylvester_
->
+
 <br>
 
 ## Research Interests:
