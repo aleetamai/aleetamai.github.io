@@ -1,9 +1,6 @@
 
 # Alessandro Tamai
 
-![liegroups](/docs/assets/images/lie_groups.png)
-
-<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="400" />
 
 
 <img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" width="400" />
@@ -11,6 +8,10 @@
 
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
 under the supervision of Antonio Lerario._
+
+<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="400" />
+
+
 
 
 ## Research Interests:
