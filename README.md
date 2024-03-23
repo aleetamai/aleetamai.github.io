@@ -6,8 +6,6 @@
 \
 \
 \
-\
-\
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
 \
 under the supervision of Antonio Lerario._
