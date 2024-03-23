@@ -1,6 +1,6 @@
 <!-- Here we duind the menu-->
 <div class="topnav">
-  <a class="active" href="#https://aleetamai.github.io">Home</a>
+  <a href="#https://aleetamai.github.io">Home</a>
   <a href="#Research Overview">Research Overview</a>
   <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
   <a href="https://www.sissa.it">SISSA</a>
