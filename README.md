@@ -2,7 +2,10 @@
 # Alessandro Tamai
 
 
-<img align="left" width="200" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
+<img align="left" width="400" src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png" />
+
+
+<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="200" />
 
 ---------
 \
@@ -20,8 +23,6 @@ under the supervision of Antonio Lerario._
 
 
 
-
-<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="250" />
 
 
 >_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
