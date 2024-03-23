@@ -7,7 +7,15 @@
 </div>
 
 
-img[src*="https://aleetamai.github.io"] { width:150px; height:100px; }
+img[src*="https://aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png"] { width:150px; height:100px; }
+
+img[
+src*=[https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/Lie_groups.png] {
+   width:150px;
+   height:100px;
+}
+
+
 
 
 
