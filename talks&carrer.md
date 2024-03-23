@@ -8,9 +8,9 @@
 # Talks & Career 
 
 ## Career
-- Postgraduate Fellowship in Geometry and Mathematical Physics, SISSA, Trieste (Italy), April 2021 - July 2021
-- Master's degree in Mathematics, University of Trieste, Trieste (Italy), 2017-2020
-- Bachelor's degree in Mathematics, University of Trieste, Trieste, Italy, 2014-2017
+- Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
+- Master's degree in Mathematics,_University of Trieste, Trieste (Italy), 2017-2020_
+- Bachelor's degree in Mathematics, _University of Trieste, Trieste, Italy, 2014-2017_
 - Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017
 - Diploma of Perito Chimico, Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014
 
