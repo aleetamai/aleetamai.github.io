@@ -3,7 +3,7 @@
 
 ![liegroups](/docs/assets/images/lie_groups.png)
 
-<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="200" />
+<img src="https://github.com/aleetamai/aleetamai.github.io/blob/main/docs/assets/images/sissalogo.png" width="400" />
 
 
 
