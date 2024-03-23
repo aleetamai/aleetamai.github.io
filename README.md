@@ -20,19 +20,13 @@
 <br>
 <br>
 ​_Ph.D. student at [SISSA](https://www.sissa.it) in Geometry and Mathematical Physics, 
+<br> under the supervision of Antonio Lerario._
 <br>
-under the supervision of Antonio Lerario._
-
-<br>
-
 >_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
-
 >_James Joseph Sylvester_
-
 <br>
 
 ## Research Interests:
-
 My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.   
                                                                                                                                
 Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
