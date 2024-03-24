@@ -1,6 +1,5 @@
 <!-- DEFINING BIG SIDEBAR  -->
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -18,9 +17,9 @@
         position: absolute;
         top: 0;
         bottom: 0;
-        width: 200px; /* Adjust width as needed */
+        width: 150px; /* Adjust width as needed */
         background-color: #0E1116;
-        padding: 20px;
+        padding: 0px;
     }
     .left-band {
         left: 0;
