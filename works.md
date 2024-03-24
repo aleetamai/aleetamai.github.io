@@ -17,3 +17,4 @@
 # Works
 
 - <a href="assets/Master_Thesis.pdf" download> Master Thesis (English) </a>
+- <a href="assets/Bachelor_Thesis.pdf" download> Master Thesis (English) </a>
