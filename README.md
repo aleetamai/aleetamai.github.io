@@ -52,9 +52,6 @@
 ​_Ph.D. student [at SISSA](https://math.sissa.it/users/alessandro-tamai) in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
 <br>
-
-<br>
-<br>
 <br>
 <br>
 <br>
