@@ -61,13 +61,7 @@
     <img src="img_nature.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="img_lights.jpg" alt="Lights" style="width:100%" onclick="myFunction(this);">
+    <img src="assets/sissa2.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
   </div>
 </div>
 
