@@ -67,7 +67,7 @@
     <h2>Contacts</h2>
       <p>email:  atamai@sissa.it
       <br>
-      office: room 416, SISSA,Trieste (TS)</p>
+      office: room 416, SISSA,Trieste (IT)</p>
     </div>
     <!-- Page Content -->
     <div class="content">
