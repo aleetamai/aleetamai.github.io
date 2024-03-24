@@ -73,6 +73,28 @@
 
 
 
+<div id="container" style="width:100%;">                                   
+  <div id="left" style="float:left; width:50%;">
+    <h2>Research Interests:</h2>
+    My main research interest are on metric geometry,real algebraic geometry and Morse theory for data analysis and machine learning.        <br>     
+    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.
+  </div>                     
+  <div id="right" style="float:right; width:50%;">
+      <h2>Contacts</h2>
+      email:  atamai@sissa.it
+      <br>
+      office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
+  </div>                   
+</div> 
+
+
+
+<img align="left" width="520" src="assets/sissa-building10.jpg" />
+
+<img align="left" width="520" src="assets/sissa2.jpg" />
+
+
+
 
 
 
