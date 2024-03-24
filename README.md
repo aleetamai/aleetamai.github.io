@@ -15,8 +15,8 @@
     }
     .left-band, .right-band {
         position: absolute;
-        top: 0;
-        bottom: 0;
+        top: -10;
+        bottom: -10;
         width: 150px; /* Adjust width as needed */
         background-color: #0E1116;
         padding: 0px;
