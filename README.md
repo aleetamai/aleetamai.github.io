@@ -6,6 +6,7 @@
         <div class="topnav">
         <a href="https://aleetamai.github.io">Home</a>
         <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
+        <a href="https://aleetamai.github.io/talks&carrer">Works</a>
         </div>
         </tr>
     </table>
