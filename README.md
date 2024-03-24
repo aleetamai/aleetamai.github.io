@@ -22,8 +22,7 @@
         padding: 20px;
     }
 </style>
-</head>
-<body>
+
 
 
     
@@ -76,8 +75,6 @@
     Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
     </div>
 </div>
-
-</body>
 
 
 
@@ -146,7 +143,7 @@
     </div>
 </div>
 
-</body>
+
 
 
 
