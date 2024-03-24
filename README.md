@@ -81,71 +81,17 @@
 
 
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
 
-## Sissa Buildings
+<h2>Sissa Buildings</h2>
+ 
 
 
 <img align="left" width="440" src="assets/sissa-building10.jpg" />
 
 <img align="right" width="440" src="assets/sissa2.jpg" />
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<div class="container">
-    <!-- Sidebar -->
-    <div class="sidebar">
-    <h2>Contacts</h2>
-      <p>email:  atamai@sissa.it
-      <br>
-      office: room 416</p>
-    </div>
-    <!-- Page Content -->
-    <div class="content">
-    <h2>Research Interests:</h2>
-     <p>My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning.                <br>     
-    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
-    </div>
-</div>
-
-
-
-
-
-<div id="container" style="width:100%;">                                   
-  <div id="left" style="float:left; width:50%;">
-    <h2>Research Interests:</h2>
-    My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning.                <br>     
-    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.
-   </div>                     
-    <div id="right" style="float:right; width:50%;">
-      <h2>Contacts</h2>
-      email:  atamai@sissa.it
-      <br>
-      office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
-  </div>                   
-</div> 
 
 
 
