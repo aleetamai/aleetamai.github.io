@@ -51,19 +51,58 @@
 </body>
 </html>
 
-<!-- MENU  -->
+
+<!-- DEFINE THE STYLE OF THE WEBSITE MENU  -->
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Navigation Menu Example</title>
+<style>
+    /* Basic styling */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+    
+    /* Style for navigation menu */
+    .topnav {
+        background-color: #0E1116; /* Background color */
+        overflow: hidden; /* Clear floats */
+    }
+
+    .topnav a {
+        float: left; /* Make the links appear horizontally */
+        display: block; /* Make the links appear as block elements */
+        color: #fff; /* Text color */
+        text-align: center; /* Center align the text */
+        padding: 14px 16px; /* Add padding to the links */
+        text-decoration: none; /* Remove underline from links */
+        font-size: 16px; /* Font size */
+    }
+
+    .topnav a:hover {
+        background-color: #ddd; /* Change background color on hover */
+        color: #333; /* Change text color on hover */
+    }
+</style>
+</head>
+<body>
 
 <div id="image-table" align="center">
-    <table>
-        <tr>
-        <div class="topnav">
+    <div class="topnav">
         <a href="https://aleetamai.github.io">Home</a>
         <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
         <a href="https://aleetamai.github.io/works">Works</a>
-        </div>
-        </tr>
-    </table>
+    </div>
 </div>
+
+</body>
+</html>
+
+
 
 
 <!-- MAIN -->
