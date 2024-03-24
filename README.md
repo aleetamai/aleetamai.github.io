@@ -1,6 +1,3 @@
-<!-- Here we duind the menu-->
-
-<div style="height:100px;" style="background-color:#0E1116;">text</div>
 
 
 <div id="image-table" align="center">
