@@ -146,7 +146,7 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 
 <img align="left" width="440" src="assets/sissa-building10.jpg" />
 
-<img align="right" width="440" src="assets/sissa2.jpg" />
+<img align="right" width="440" src="assets/Sfondo.jpg" />
 
 
 
