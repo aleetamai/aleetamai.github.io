@@ -5,7 +5,7 @@
 <style>
     /* Basic styling */
     body {
-        margin: 0;
+        margin: -100;
         padding: 0;
         font-family: Arial, sans-serif;
     }
