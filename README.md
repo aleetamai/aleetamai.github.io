@@ -100,7 +100,7 @@
     
     /* Style for navigation menu */
     .topnav {
-        background-color: #333; /* Background color */
+        background-color: #0E1116; /* Background color */
         overflow: hidden; /* Clear floats */
     }
 
