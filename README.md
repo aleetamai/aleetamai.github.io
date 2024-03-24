@@ -98,6 +98,63 @@
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Left and Right Sidebands Example</title>
+<style>
+    /* Basic styling */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        position: relative; /* Important for positioning the bands */
+    }
+    .left-band, .right-band {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 200px; /* Adjust width as needed */
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+    .left-band {
+        left: 0;
+    }
+    .right-band {
+        right: 0;
+    }
+    .content {
+        margin: 0 200px; /* Adjust margin to accommodate the bands */
+        padding: 20px;
+    }
+</style>
+</head>
+<body>
+
+<!-- Left Band -->
+<div class="left-band">
+    <h2>Left Band</h2>
+    <p>This is the content of the left band.</p>
+</div>
+
+<!-- Right Band -->
+<div class="right-band">
+    <h2>Right Band</h2>
+    <p>This is the content of the right band.</p>
+</div>
+
+<!-- Page Content -->
+<div class="content">
+    <h1>Main Content</h1>
+    <p>This is the main content of your webpage. It will be in between the left and right bands.</p>
+</div>
+
+</body>
+</html>
+
 
 
 
