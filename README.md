@@ -149,8 +149,8 @@
 <img src="assets/sissalogo.png" width="130" />
 
 -------
-<a href="[https://aleetamai.github.io](https://math.sissa.it/users/alessandro-tamai)">at SISSA</a>
-​_Ph.D. student [at SISSA](https://math.sissa.it/users/alessandro-tamai) in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
+
+​_Ph.D. student <a style="color:#f0f0f0;" href="[https://aleetamai.github.io](https://math.sissa.it/users/alessandro-tamai)">_at SISSA_</a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
 <br>
 <br>
