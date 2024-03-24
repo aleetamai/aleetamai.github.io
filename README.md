@@ -2,24 +2,6 @@
 
 <div style="height:100px;" style="background-color:#0E1116;">text</div>
 
-<head>
-<title>Change background color</title>
-<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
-<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-<link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
-<link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
-<script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
-<style>
-    html, body, #map {
-      background-color: #06283f;
-      width:100%; 
-      height:100%; 
-      padding: 0; 
-      margin: 0;
-</style>
-</head>
-
-
 <div class="container">
   <div class="center">
 
@@ -31,7 +13,6 @@
   
   </div>
 </div>
-
 
 
 
