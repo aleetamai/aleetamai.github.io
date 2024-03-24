@@ -23,7 +23,7 @@
     .content1 {
         flex: 1;
         padding: 20px;
-        background-color: #0E1116;
+        background-color: #0d1117;
     }
 </style>
 </head>
