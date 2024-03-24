@@ -35,7 +35,7 @@
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
     <h2>Research Interests:</h2>
-    My main research interest are on metric geometry,real algebraic geometry and Morse theory for data analysis and machine learning.                                                                                         
+    My main research interest are on metric geometry,real algebraic geometry and Morse theory for data analysis and machine learning.        <br>     
     Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.
   </div>                     
   <div id="right" style="float:right; width:50%;">
