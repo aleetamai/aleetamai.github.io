@@ -46,47 +46,7 @@ email:  atamai@sissa.it
 <br>
 office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
-<div class="split left">
-  <div class="centered">
-    <img src="img_avatar2.png" alt="Avatar woman">
-    <h2>Jane Flex</h2>
-    <p>Some text.</p>
-  </div>
-</div>
 
-<div class="split right">
-  <div class="centered">
-    <img src="img_avatar.png" alt="Avatar man">
-    <h2>John Doe</h2>
-    <p>Some text here too.</p>
-  </div>
-</div>
-
-
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
-</div>
-
-
-<body> 
-<frameset cols="25%,75%"> 
-   <frame src="left_frame.html" />
-  ciao
-   <frame src="right_frame.html" /> 
-  blau
-</frameset> 
-</body> 
-
-<div id="image-table" align="right">
-    <table>
-        <tr>
-            <td style="padding:10px">
-            mioa
-            </td>
-        </tr>
-    </table>
-</div>
 
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
@@ -101,39 +61,3 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
       office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
   </div>                   
 </div> 
-
-// Initialize and add the map
-let map;
-async function initMap(): Promise<void> {
-  // The location of Uluru
-  const position = { lat: -25.344, lng: 131.031 };
-
-  // Request needed libraries.
-  //@ts-ignore
-  const { Map } = await google.maps.importLibrary("maps") as google.maps.MapsLibrary;
-  const { AdvancedMarkerElement } = await google.maps.importLibrary("marker") as google.maps.MarkerLibrary;
-
-  // The map, centered at Uluru
-  map = new Map(
-    document.getElementById('map') as HTMLElement,
-    {
-      zoom: 4,
-      center: position,
-      mapId: 'DEMO_MAP_ID',
-    }
-  );
-
-  // The marker, positioned at Uluru
-  const marker = new AdvancedMarkerElement({
-    map: map,
-    position: position,
-    title: 'Uluru'
-  });
-}
-initMap();
-
-
-
-
-
-
