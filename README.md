@@ -17,21 +17,6 @@
 
 
 
-
-<div class="container">
-  <div class="center">
-
-  <div class="topnav">
-  <a href="https://aleetamai.github.io">Home</a>
-  <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
-  <a href="https://www.sissa.it">SISSA</a>
-  </div>
-  
-  </div>
-</div>
-
-
-
 <br>
 
 <img align="left" width="450" src="assets/Lie_groups.png" />
@@ -96,14 +81,11 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 </frameset> 
 </body> 
 
-<div id="image-table" align="center">
+<div id="image-table" align="right">
     <table>
         <tr>
             <td style="padding:10px">
-                <img src="https://github.com/AleixMT/AleixMT/assets/23342150/a802e799-cfcf-4add-ae22-0aa96bbecb6c"/>
-            </td>
-            <td style="padding:10px">
-                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat"/>
+            mioa
             </td>
         </tr>
     </table>
