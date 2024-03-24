@@ -14,7 +14,7 @@
         position: relative; /* Important for positioning the bands */
     }
     .left-band, .right-band {
-        position: absolute;
+        position: fixed;
         top: 0;
         bottom: 0;
         width: 150px; /* Adjust width as needed */
