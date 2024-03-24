@@ -23,7 +23,7 @@
     .content1 {
         flex: 1;
         padding: 20px;
-        background-color: #0d1117;
+        background-color: #161b22;
     }
 </style>
 </head>
@@ -96,7 +96,7 @@
 
 -------
 
-​_Ph.D. student <a style="color:#0d1117;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
+​_Ph.D. student <a style="color:#161b22;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
 <br>
 <br>
