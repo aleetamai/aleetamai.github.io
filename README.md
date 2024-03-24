@@ -63,7 +63,11 @@
 
 
 
-
+<div id="banda3" class="banda">
+  <div class="wrapper">
+    <!-- Layout classico -->
+  </div>
+</div>
 
 
 
