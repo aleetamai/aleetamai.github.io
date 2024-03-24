@@ -90,26 +90,17 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
-      ciao
+    <h2>Research Interests:<h2>
+    My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.                                                                                                      
+    Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.  
   </div>                     
   <div id="right" style="float:right; width:50%;">
+      <h2>Contacts</h2>
       email:  atamai@sissa.it
       <br>
       office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
   </div>                   
 </div> 
-
-
-
-<div id="container" style="width:100%;">                                   
-  <div id="left" style="float:left; width:50%;">ciao</div>                     
-  <div id="right" style="float:right; width:50%;"> <h2>John Doe</h2> </div>                   
-</div> 
-
-<div id="container" style="width:100%;">                                   
-  <div id="left" style="float:left; width:50%;"> This is left panel </div>                     
-  <div id="right" style="float:right; width:50%;"> This is right panel </div>                   
-</div>   
 
 
 
