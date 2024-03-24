@@ -26,10 +26,6 @@
 
 <br>
 
->_The cardinal notions of number, place, and combination...three intersecting but distinct spheres of thought to which all mathematical ideas admit of being referred._
-><br>
->**James Joseph Sylvester**
-
 <br>
 <br>
 <br>
@@ -37,7 +33,9 @@
 
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
-     ​_Ph.D. student at [SISSA](https://math.sissa.it/users/alessandro-tamai) in Geometry and Mathematical Physics, under the supervision     of Antonio Lerario._
+    <h2>Research Interests:</h2>
+    My main research interest are on metric geometry,real algebraic geometry and Morse theory for data analysis and machine learning.                                                                                         
+    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.
   </div>                     
   <div id="right" style="float:right; width:50%;">
       <h2>Contacts</h2>
@@ -48,6 +46,4 @@
 </div> 
 
 
-    <h2>Research Interests:</h2>
-    My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.                                                                                                      
-    Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
+
