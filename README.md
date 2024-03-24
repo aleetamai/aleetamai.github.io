@@ -89,9 +89,9 @@
 
 
 
-<img align="left" width="500" src="assets/sissa-building10.jpg" />
+<img align="left" width="400" src="assets/sissa-building10.jpg" />
 
-<img align="right" width="500" src="assets/sissa2.jpg" />
+<img align="right" width="400" src="assets/sissa2.jpg" />
 
 
 <div id="container" style="width:100%;">                                   
