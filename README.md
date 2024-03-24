@@ -53,7 +53,10 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
 
 ## Sissa Buildings
 
@@ -63,17 +66,6 @@
 <img align="right" width="440" src="assets/sissa2.jpg" />
 
 
-<div id="image-table" align="center">
-    <table>
-        <tr>
-        <div class="topnav">
-        <a href="https://aleetamai.github.io">Home</a>
-        <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
-        <a href="https://aleetamai.github.io/works">Works</a>
-        </div>
-        </tr>
-    </table>
-</div>
 
 <head>
 <meta charset="UTF-8">
