@@ -88,6 +88,20 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
     </table>
 </div>
 
+<div id="container" style="width:100%;">                                   
+  <div id="left" style="float:left; width:50%;">
+      ciao
+  </div>                     
+  <div id="right" style="float:right; width:50%;">
+      email:  atamai@sissa.it
+      <br>
+      office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
+  </div>                   
+</div> 
+
+
+
+
 
 
 <div id="container" style="width:100%;">                                   
