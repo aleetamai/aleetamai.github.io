@@ -91,7 +91,7 @@
 
 <img align="left" width="520" src="assets/sissa-building10.jpg" />
 
-<img align="left" width="520" src="assets/sissa2.jpg" />
+<img align="right" width="520" src="assets/sissa2.jpg" />
 
 
 
