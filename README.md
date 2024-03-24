@@ -58,10 +58,10 @@
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="assets/sissa-building10.jpg" alt="Nature" style="width:100%" onclick="myFunction(this);">
+    <img src="assets/sissa-building10.jpg" alt="Nature" style="width:50%" onclick="myFunction(this);">
   </div>
   <div class="column">
-    <img src="assets/sissa2.jpg" alt="Snow" style="width:100%" onclick="myFunction(this);">
+    <img src="assets/sissa2.jpg" alt="Snow" style="width:50%" onclick="myFunction(this);">
   </div>
 </div>
 
