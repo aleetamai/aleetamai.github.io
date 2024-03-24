@@ -1,5 +1,4 @@
 
-
 <div class="container">
     <!-- Sidebar -->
     <div class="sidebar">
@@ -15,10 +14,6 @@
 </div>
 
 </body>
-
-
-
-
 
 
 
