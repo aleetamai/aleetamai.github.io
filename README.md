@@ -38,8 +38,6 @@
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
      ​_Ph.D. student at [SISSA](https://math.sissa.it/users/alessandro-tamai) in Geometry and Mathematical Physics, under the supervision     of Antonio Lerario._
-
-      <hr width="1" size="500" style="0 auto" />
   </div>                     
   <div id="right" style="float:right; width:50%;">
       <h2>Contacts</h2>
