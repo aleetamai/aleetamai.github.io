@@ -137,21 +137,13 @@
 
 <!-- Left Band -->
 <div class="left-band">
-    <h2>Left Band</h2>
-    <p>This is the content of the left band.</p>
 </div>
 
 <!-- Right Band -->
 <div class="right-band">
-    <h2>Right Band</h2>
-    <p>This is the content of the right band.</p>
 </div>
 
-<!-- Page Content -->
-<div class="content">
-    <h1>Main Content</h1>
-    <p>This is the main content of your webpage. It will be in between the left and right bands.</p>
-</div>
+
 
 </body>
 </html>
