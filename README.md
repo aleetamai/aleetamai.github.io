@@ -13,15 +13,15 @@
         padding: 0;
         font-family: Arial, sans-serif;
     }
-    .container {
+    .container1 {
         display: flex;
     }
-    .sidebar {
+    .sidebar1 {
         width: 250px; /* Adjust width as needed */
         background-color: #f0f0f0;
         padding: 20px;
     }
-    .content {
+    .content1 {
         flex: 1;
         padding: 20px;
         background-color: #0E1116;
@@ -68,16 +68,16 @@
 
 <!-- CONTACTS AND INTERESTS  -->
 
-<div class="container">
+<div class="container1">
     <!-- Sidebar -->
-    <div class="sidebar">
+    <div class="sidebar1">
     <h2>Contacts</h2>
       <p>email:  atamai@sissa.it
       <br>
       office: room 416</p>
     </div>
     <!-- Page Content -->
-    <div class="content">
+    <div class="content1">
     <h2 style="color:white;">Research Interests:</h2>
      <p style="color:white;" > My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
     </div>
