@@ -47,11 +47,11 @@
 </div> 
 
 
-
+<br>
 
 
 <div style="text-align:center">
-  <h2>Tabbed Image Gallery</h2>
+  <h2>Sissa Buldings</h2>
   <p>Click on the images below:</p>
 </div>
 
