@@ -2,6 +2,7 @@
 
 <div style="height:100px;" style="background-color:#0E1116;">text</div>
 
+<body bgcolor="#800000">
 
 
 
