@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="left" width="480" src="assets/Lie_groups2.png" />
+<img align="left" width="520" src="assets/Lie_groups2.png" />
 
 
 <img src="assets/sissalogo.png" width="130" />
