@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="assets/sissalogo.png" width="180" />
+<img src="assets/sissalogo.png" width="160" />
 
 -------
 
