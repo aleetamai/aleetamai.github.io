@@ -26,7 +26,7 @@
         display: flex;
     }
     .sidebar {
-        width: 250px; /* Adjust width as needed */
+        width: 500px; /* Adjust width as needed */
         background-color: #f0f0f0;
         padding: 20px;
     }
