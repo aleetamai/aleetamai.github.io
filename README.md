@@ -50,43 +50,7 @@
 <br>
 
 
-<div style="text-align:center">
-  <h2>Sissa Buildings</h2>
-  <p>Click on the images below:</p>
-</div>
-
-<!-- The four columns -->
-<div class="row">
-  <div class="column">
-    <img src="assets/sissa-building10.jpg" alt="Nature" style="width:50%" onclick="myFunction(this);">
-  </div>
-  <div class="column">
-    <img src="assets/sissa2.jpg" alt="Snow" style="width:50%" onclick="myFunction(this);">
-  </div>
-</div>
-
-<div class="container">
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-  <img id="expandedImg" style="width:100%">
-  <div id="imgtext"></div>
-</div>
-
-
-
-<div id="container" style="width:100%;">                                   
-  <div id="left" style="float:left; width:50%;">
-    <h2>Research Interests:</h2>
-    My main research interest are on metric geometry,real algebraic geometry and Morse theory for data analysis and machine learning.        <br>     
-    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.
-  </div>                     
-  <div id="right" style="float:right; width:50%;">
-      <h2>Contacts</h2>
-      email:  atamai@sissa.it
-      <br>
-      office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
-  </div>                   
-</div> 
-
+## Sissa Buildings
 
 
 <img align="left" width="440" src="assets/sissa-building10.jpg" />
