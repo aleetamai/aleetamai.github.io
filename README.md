@@ -33,6 +33,34 @@
 <br>
 <br>
 
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Side Bar Example</title>
+<style>
+    /* Basic styling */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+    .container {
+        display: flex;
+    }
+    .sidebar {
+        width: 250px; /* Adjust width as needed */
+        background-color: #f0f0f0;
+        padding: 20px;
+    }
+    .content {
+        flex: 1;
+        padding: 20px;
+    }
+</style>
+</head>
+<body>
+
+
 <div id="container" style="width:100%;">                                   
   <div id="left" style="float:left; width:50%;">
     <h2>Research Interests:</h2>
@@ -67,32 +95,7 @@
 
 
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Side Bar Example</title>
-<style>
-    /* Basic styling */
-    body {
-        margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-    }
-    .container {
-        display: flex;
-    }
-    .sidebar {
-        width: 250px; /* Adjust width as needed */
-        background-color: #f0f0f0;
-        padding: 20px;
-    }
-    .content {
-        flex: 1;
-        padding: 20px;
-    }
-</style>
-</head>
-<body>
+
 
 <div class="container">
     <!-- Sidebar -->
@@ -111,8 +114,6 @@
 </div>
 
 </body>
-
-
 
 
 
