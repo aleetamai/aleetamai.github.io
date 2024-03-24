@@ -133,7 +133,7 @@
     <h2>Contacts</h2>
       <p>email:  atamai@sissa.it
       <br>
-      office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)</p>
+      office: room 416</p>
     </div>
     <!-- Page Content -->
     <div class="content">
