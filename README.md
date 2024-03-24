@@ -11,47 +11,6 @@
     </table>
 </div>
 
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Side Bar Example</title>
-<style>
-    /* Basic styling */
-    body {
-        margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-    }
-    .container {
-        display: flex;
-    }
-    .sidebar {
-        width: 500px; /* Adjust width as needed */
-        background-color: #f0f0f0;
-        padding: 20px;
-    }
-    .content {
-        flex: 1;
-        padding: 20px;
-    }
-</style>
-</head>
-<body>
-
-<div class="container">
-    <!-- Sidebar -->
-    <div class="sidebar">
-        <h1> Alessandro Tamai</h1>
-        <p>This is the sidebar content.</p>
-    </div>
-    <!-- Page Content -->
-    <div class="content">
-    </div>
-</div>
-
-</body>
-
-
 
 
 # Alessandro Tamai
