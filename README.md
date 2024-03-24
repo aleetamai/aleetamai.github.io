@@ -52,7 +52,8 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
   <div id="left" style="float:left; width:50%;">
     <h2>Research Interests:</h2>
     My main research interest are on metric geometry, Morse theory and optimal transport for data analysis and machine learning.                                                                                                      
-    Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.  
+    Other interests cover differential topology, Riemannian and subRiemannian geometry, real algebraic geometry and Lie groups.
+      <hr width="1" size="500" style="0 auto" />
   </div>                     
   <div id="right" style="float:right; width:50%;">
       <h2>Contacts</h2>
