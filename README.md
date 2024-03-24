@@ -158,7 +158,70 @@
 
 
 
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Left and Right Sidebands Example</title>
+<style>
+    /* Basic styling */
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+    }
+    .container {
+        position: relative;
+        min-height: 100vh;
+        overflow: hidden;
+        padding: 0 20px; /* Adjust the padding to move the content away from the edges */
+    }
+    .left-band, .right-band {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 200px; /* Adjust width as needed */
+        background-color: #f0f0f0;
+        padding: 20px;
+        z-index: 1; /* Ensure it's behind the content */
+    }
+    .left-band {
+        left: 0;
+    }
+    .right-band {
+        right: 0;
+    }
+    .content {
+        position: relative;
+        z-index: 2; /* Ensure it's above the bands */
+        padding: 20px;
+    }
+</style>
+</head>
+<body>
 
+<div class="container">
+    <!-- Left Band -->
+    <div class="left-band">
+        <h2>Left Band</h2>
+        <p>This is the content of the left band.</p>
+    </div>
+
+    <!-- Right Band -->
+    <div class="right-band">
+        <h2>Right Band</h2>
+        <p>This is the content of the right band.</p>
+    </div>
+
+    <!-- Page Content -->
+    <div class="content">
+        <h1>Main Content</h1>
+        <p>This is the main content of your webpage.</p>
+    </div>
+</div>
+
+</body>
+</html>
 
 
 
