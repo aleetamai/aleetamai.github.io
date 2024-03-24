@@ -24,6 +24,7 @@
     .content {
         flex: 1;
         padding: 20px;
+        background-color: #0E1116;
     }
 </style>
 </head>
