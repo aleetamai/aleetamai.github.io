@@ -78,8 +78,7 @@
     <!-- Page Content -->
     <div class="content">
     <h2>Research Interests:</h2>
-     <p>My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning.                <br>     
-    Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
+     <p>My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
     </div>
 </div>
 
