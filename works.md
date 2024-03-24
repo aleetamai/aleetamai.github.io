@@ -15,3 +15,5 @@
 
 
 # Works
+
+<a href="assets/Master_Thesis.pdf" download>Click here to download</a>
