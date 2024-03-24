@@ -1,7 +1,13 @@
-<div class="topnav">
-  <a href="https://aleetamai.github.io">Home</a>
-  <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
-  <a href="https://www.sissa.it">SISSA</a>
+<div id="image-table" align="center">
+    <table>
+        <tr>
+        <div class="topnav">
+        <a href="https://aleetamai.github.io">Home</a>
+        <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
+        <a href="https://www.sissa.it">SISSA</a>
+        </div>
+        </tr>
+    </table>
 </div>
 
 
