@@ -16,7 +16,7 @@
 
 <br>
 
-<img align="left" width="450" src="assets/Lie_groups.png" />
+<img align="left" width="450" src="assets/Lie_groups2.png" />
 
 <br>
 
