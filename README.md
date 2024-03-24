@@ -18,6 +18,8 @@
 
 <img align="left" width="450" src="assets/Lie_groups.png" />
 
+<br>
+
 <img src="assets/sissalogo.png" width="180" />
 
 -------
