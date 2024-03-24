@@ -4,7 +4,6 @@
 
 <body bgcolor="#800000">
 
-body { background-color: #DBF9FC; }
 
 <div class="container">
   <div class="center">
