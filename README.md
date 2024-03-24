@@ -1,3 +1,20 @@
+<html>
+<head>
+   .....
+</head>
+<body>
+   <div class="row-fluid">
+       <div class="span3">
+          <!-- left side -->
+       </div>
+       <div class="span9">
+          <!-- right side -->
+       </div>
+    </div>
+</body>
+</html>
+
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
