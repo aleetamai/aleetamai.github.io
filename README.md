@@ -78,7 +78,7 @@
     </div>
     <!-- Page Content -->
     <div class="content">
-    <h2>Research Interests:</h2>
+    <h2 style="color:white;">Research Interests:</h2>
      <p style="color:white;" > My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
     </div>
 </div>
