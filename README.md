@@ -97,56 +97,6 @@
 
 
 
-<!-- DEFINING BIG SIDEBAR  -->
-
-
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Left and Right Sidebands Example</title>
-<style>
-    /* Basic styling */
-    body {
-        margin: 0;
-        padding: 0;
-        font-family: Arial, sans-serif;
-        position: relative; /* Important for positioning the bands */
-    }
-    .left-band, .right-band {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        width: 200px; /* Adjust width as needed */
-        background-color: #0E1116;
-        padding: 20px;
-    }
-    .left-band {
-        left: 0;
-    }
-    .right-band {
-        right: 0;
-    }
-    .content {
-        margin: 0 200px; /* Adjust margin to accommodate the bands */
-        padding: 20px;
-    }
-</style>
-</head>
-<body>
-
-<!-- Left Band -->
-<div class="left-band">
-</div>
-
-<!-- Right Band -->
-<div class="right-band">
-</div>
-
-
-
-</body>
-</html>
 
 
 
