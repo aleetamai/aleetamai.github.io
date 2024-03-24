@@ -22,6 +22,7 @@
         padding: 20px;
     }
 </style>
+</head>
 
     
 <div id="image-table" align="center">
@@ -36,8 +37,8 @@
     </table>
 </div>
 
+<h1>Alessandro Tamai</h1>
 
-# Alessandro Tamai
 
 <br>
 
