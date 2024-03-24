@@ -18,7 +18,7 @@
         top: 0;
         bottom: 0;
         width: 150px; /* Adjust width as needed */
-        background-color: #161b22;
+        background-color: #024059;
         padding: 0px;
     }
     .left-band {
