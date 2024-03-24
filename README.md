@@ -95,7 +95,6 @@
 <img align="right" width="440" src="assets/sissa2.jpg" />
 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -114,7 +113,7 @@
         top: 0;
         bottom: 0;
         width: 200px; /* Adjust width as needed */
-        background-color: #f0f0f0;
+        background-color: #0E1116;
         padding: 20px;
     }
     .left-band {
