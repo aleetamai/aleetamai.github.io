@@ -20,8 +20,6 @@
 
 
 
-
-
 <br>
 
 <img align="left" width="450" src="assets/Lie_groups.png" />
@@ -70,4 +68,9 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
   </div>
 </div>
 
+
+<div class="row">
+  <div class="column"></div>
+  <div class="column"></div>
+</div>
 
