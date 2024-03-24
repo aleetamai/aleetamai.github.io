@@ -77,8 +77,10 @@ office: room 416, SISSA, Via Bonomea, 265, 34136, Trieste (TS)
 
 <body> 
 <frameset cols="25%,75%"> 
-   <frame src="left_frame.html" /> 
+   <frame src="left_frame.html" />
+  ciao
    <frame src="right_frame.html" /> 
+  blau
 </frameset> 
 </body> 
 
