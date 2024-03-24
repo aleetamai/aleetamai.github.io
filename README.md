@@ -87,6 +87,9 @@
 </style>
 </head>
 
+
+
+<!-- WEBSITE MENU  -->
     
 <div id="image-table" align="center">
     <table>
@@ -99,6 +102,8 @@
         </tr>
     </table>
 </div>
+
+<!-- TITLE AND PRESENTATION  -->
 
 <h1>Alessandro Tamai</h1>
 
@@ -120,6 +125,8 @@
 <br>
 <br>
 
+<!-- CONTACTS AND INTERESTS  -->
+
 <div class="container">
     <!-- Sidebar -->
     <div class="sidebar">
@@ -136,6 +143,7 @@
     </div>
 </div>
 
+<!-- SISSA PHOTOS  -->
 
 <br>
 
