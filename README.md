@@ -66,6 +66,43 @@
 </style>
 </head>
 
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Example</title>
+    <style>
+        /* Optional: Some basic styling for demonstration */
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 10px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #000; /* Black text color */
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Contact</a></li>
+    </ul>
+</nav>
+
+</body>
+
+
 <!-- DEFINE THE STYLE OF THE WEBSITE MENU  -->
 
 <html lang="en">
