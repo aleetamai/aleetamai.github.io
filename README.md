@@ -10,7 +10,7 @@
     body {
         margin: 0;
         padding: 0;
-        color: black;
+        color: #f0f0f0;
         font-family: Arial, sans-serif;
     }
     .container1 {
