@@ -35,9 +35,8 @@
     <nav>
         <ul>
             <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#https://aleetamai.github.io/talks&carrer">Talks&Carrer</a></li>
+            <li><a href="#https://aleetamai.github.io/works">Works</a></li>
         </ul>
     </nav>
 </div>
