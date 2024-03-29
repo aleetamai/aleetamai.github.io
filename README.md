@@ -34,9 +34,9 @@
 <div class="menu-container">
     <nav>
         <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#https://aleetamai.github.io/talks&carrer">Talks&Carrer</a></li>
-            <li><a href="#https://aleetamai.github.io/works">Works</a></li>
+            <li><a href="https://aleetamai.github.io">Home</a></li>
+            <li><a href="https://aleetamai.github.io/talks&carrer">Talks&Carrer</a></li>
+            <li><a href="https://aleetamai.github.io/works">Works</a></li>
         </ul>
     </nav>
 </div>
