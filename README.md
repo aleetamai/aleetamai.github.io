@@ -45,6 +45,7 @@
     }
     
     /* Style for navigation menu */
+    
     .topnav {
         background-color: #0E1116; /* Background color */
         overflow: hidden; /* Clear floats */
@@ -58,7 +59,11 @@
         text-decoration: none; /* Remove underline from links */
         font-size: 16px; /* Font size */
     }
+   .menu-item .active{
+         background-color:#1B3E70;
+         color:white;
 
+    }
     .topnav a:hover {
         background-color: #ddd; /* Change background color on hover */
         color: #333; /* Change text color on hover */
