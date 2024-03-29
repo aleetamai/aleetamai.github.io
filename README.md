@@ -101,54 +101,6 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<div id="image-table" align="center">
-    <div class="topnav">
-        <a href="https://aleetamai.github.io">Home</a>
-        <a href="https://aleetamai.github.io/talks&carrer">Talks & Career</a>
-        <a href="https://aleetamai.github.io/works">Works</a>
-    </div>
-</div>
-
-/* Define styles for the top navigation */
-.topnav {
-    background-color: #3498db; /* Set background color */
-    overflow: hidden; /* Clear floats */
-    font-size: 16px; /* Set font size */
-}
-
-/* Define styles for the links inside the top navigation */
-.topnav a {
-    float: left; /* Make the links appear horizontally */
-    display: block; /* Make the links appear as block elements */
-    color: #fff; /* Set text color */
-    text-align: center; /* Center align the text */
-    padding: 14px 16px; /* Add padding to the links */
-    text-decoration: none; /* Remove underline from links */
-}
-
-/* Define styles for the links on hover */
-.topnav a:hover {
-    background-color: #2980b9; /* Change background color on hover */
-}
-
-/* Define style for active link */
-.topnav a.active {
-    background-color: #2980b9; /* Set background color for active link */
-}
-
-
 
 
 
