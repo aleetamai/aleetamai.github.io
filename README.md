@@ -41,11 +41,7 @@
         margin: 0;
         padding: 0;
         font-family: Arial, sans-serif;
-
-    }
-    
-    /* Style for navigation menu */
-    
+        }
     .topnav {
         background-color: #0E1116; /* Background color */
         overflow: hidden; /* Clear floats */
