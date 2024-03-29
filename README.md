@@ -98,7 +98,16 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 
 <div class="container">
 <div class="left">
-    
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Left Section Header
 
 Left side content goes here
