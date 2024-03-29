@@ -10,6 +10,7 @@
     body {
         margin: 0;
         padding: 0;
+        color: black;
         font-family: Arial, sans-serif;
     }
     .container1 {
@@ -41,6 +42,7 @@
     body {
         margin: 0;
         padding: 0;
+        
         font-family: Arial, sans-serif;
     }
     
@@ -49,7 +51,6 @@
         background-color: #0E1116; /* Background color */
         overflow: hidden; /* Clear floats */
     }
-
     .topnav a {
         float: left; /* Make the links appear horizontally */
         display: block; /* Make the links appear as block elements */
@@ -80,8 +81,6 @@
 </html>
 
 
-
-
 <!-- TITLE AND PRESENTATION  -->
 
 <h1>Alessandro Tamai</h1>
@@ -90,8 +89,6 @@
 <br>
 
 <img align="left" width="520" src="assets/Lie_groups2.png" />
-
-
 <img src="assets/sissalogo.png" width="130" />
 
 -------
