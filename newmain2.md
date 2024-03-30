@@ -82,11 +82,11 @@
 
 
 <h1 align="left">Alessandro Tamai</h1>
-<img src="assets/sissalogo.png" width="130" />
 
 <img align="left" width="520" src="assets/myphoto" />
 
 -------
+<img src="assets/sissalogo.png" width="130" />
 
 ​_Ph.D. student <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
