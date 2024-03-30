@@ -90,20 +90,28 @@
 
 ​_Ph.D. student <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
-    <h2>Contacts</h2>
-      <p>email:  atamai@sissa.it
-      <br>
-      office: room 416</p>
-  </div>
+
+<p>email:  atamai@sissa.it
+<br>
+office: room 416</p>
+
 
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <!-- CONTACTS AND INTERESTS  -->
 
 <body>
 <div class="row">
   <div class="column left" style="background-color:white;">
   <img align="center" width="100" src="assets/Lie_groups2.png" />
+</div>
   <div class="column right" style="background-color:white;">
     <h2 style="color:black;">Research Interests:</h2>
      <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
@@ -114,6 +122,15 @@
 
 
 <!-- SISSA PHOTOS  -->
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2>Sissa Buildings</h2>
 Via Bonomea, 265, 34136 Trieste (Italy)
