@@ -54,3 +54,10 @@
 (Master Thesis, English) </a>
 - <a href="assets/Bachelor_Thesis.pdf" style="color:black;" download> Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi
  (Bachelor Thesis, Italian) </a>
+
+
+ <img align="center" width="440" src="assets/Sfondo.jpg" />
+
+
+
+
