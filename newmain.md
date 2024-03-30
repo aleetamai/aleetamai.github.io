@@ -80,9 +80,11 @@
 
 <!-- TITLE AND PRESENTATION  -->
 
-<h1>Alessandro Tamai</h1>
-
 <img  src="assets/Lie_groups3.png" />
+
+
+
+<h1>Alessandro Tamai</h1>
 
 <br>
 
