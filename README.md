@@ -136,19 +136,27 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 </head>
 <body>
 
-<h2>Two Unequal Columns</h2>
+
+
 
 <div class="row">
   <div class="column left" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Contacts</h2>
+      <p>email:  atamai@sissa.it
+      <br>
+      office: room 416</p>
   </div>
   <div class="column right" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2 style="color:black;">Research Interests:</h2>
+     <p style="color:black;" > My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
   </div>
 </div>
 
 </body>
+
+
+
+
+
 
 
