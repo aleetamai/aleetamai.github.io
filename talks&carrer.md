@@ -89,3 +89,8 @@
 - Exerciser of Analisi 1 (Calculus), _Università degli Studi di Trieste, October 2018- January 2019 Trieste (Italia)_
 
 
+
+<img align="center" width="440" src="assets/sissa-building10.jpg" />
+
+
+
