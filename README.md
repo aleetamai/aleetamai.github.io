@@ -118,7 +118,7 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 30%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
