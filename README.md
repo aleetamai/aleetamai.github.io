@@ -26,6 +26,7 @@
             text-decoration: none;
             color: #000; /* Black text color */
             font-weight: bold;
+            font-size: 18px; 
         }
     </style>
 </head>
@@ -40,11 +41,7 @@
         </ul>
     </nav>
 </div>
-
 </body>
-
-
-
 
 <!-- DEFINE THE SIDEBAR FOR THE PRESENTATION  -->
 
@@ -59,13 +56,11 @@
 .column {
   float: left;
   padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
+  height: 180px; /* Should be removed. Only for demonstration */
 }
-
 .left {
   width: 25%;
 }
-
 .right {
   width: 75%;
 }
@@ -102,7 +97,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <!-- CONTACTS AND INTERESTS  -->
 
@@ -121,7 +115,6 @@
 </div>
 
 </body>
-
 
 
 <!-- SISSA PHOTOS  -->
