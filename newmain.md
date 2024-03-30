@@ -82,6 +82,7 @@
 
 <h1>Alessandro Tamai</h1>
 
+<img align="center" width="520" src="assets/Lie_groups2.png" />
 
 <br>
 
