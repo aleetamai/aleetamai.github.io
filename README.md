@@ -46,6 +46,44 @@
 
 
 
+<!-- DEFINE THE SIDEBAR FOR THE PRESENTATION  -->
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+  height: 200px; /* Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 25%;
+}
+
+.right {
+  width: 75%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+
+
+<!------------------------------------------------------------------------------------------------  -->
+<!--------------------------------------- Bulding Website ----------------------------------------  -->
+<!------------------------------------------------------------------------------------------------  -->
+
 <!-- TITLE AND PRESENTATION  -->
 
 <h1>Alessandro Tamai</h1>
@@ -112,42 +150,7 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 <br>
 <br>
 
-
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-/* Create two unequal columns that floats next to each other */
-.column {
-  float: left;
-  padding: 10px;
-  height: 200px; /* Should be removed. Only for demonstration */
-}
-
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-</head>
 <body>
-
-
-
-
 <div class="row">
   <div class="column left" style="background-color:white;">
     <h2>Contacts</h2>
