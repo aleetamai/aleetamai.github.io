@@ -96,6 +96,16 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 <img align="right" width="440" src="assets/Sfondo.jpg" />
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+
 <div class="container">
 <div class="left">
 
