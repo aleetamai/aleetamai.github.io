@@ -90,6 +90,9 @@
 
 ​_Ph.D. student <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
 
+<img align="right" width="40" src="assets/torus.gif" />
+
+
 <br>
 <br>
 <br>
@@ -126,9 +129,6 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 <img align="left" width="440" src="assets/sissa-building10.jpg" />
 
 <img align="right" width="440" src="assets/Sfondo.jpg" />
-
-
-<img align="right" width="40" src="assets/torus.gif" />
 
 
 
