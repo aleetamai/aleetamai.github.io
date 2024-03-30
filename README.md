@@ -95,8 +95,6 @@
 
 <br>
 <br>
-<br>
-<br>
 
 <!-- CONTACTS AND INTERESTS  -->
 
@@ -118,8 +116,6 @@
 
 
 <!-- SISSA PHOTOS  -->
-
-<br>
 
 <h2>Sissa Buildings</h2>
 Via Bonomea, 265, 34136 Trieste (Italy)
