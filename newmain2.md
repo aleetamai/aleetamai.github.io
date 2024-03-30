@@ -110,7 +110,7 @@ office: room 416</p>
 <body>
 <div class="row">
   <div class="column left" style="background-color:white;">
-  <img align="center" width="150" src="assets/Lie_groups2.png" />
+  <img align="center" width="350" src="assets/Lie_groups2.png" />
 </div>
   <div class="column right" style="background-color:white;">
     <h2 style="color:black;">Research Interests:</h2>
