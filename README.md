@@ -26,7 +26,7 @@
             text-decoration: none;
             color: #000; /* Black text color */
             font-weight: bold;
-            font-size: 18px; 
+            font-size: 20px; 
         }
     </style>
 </head>
