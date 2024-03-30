@@ -92,11 +92,6 @@
 
 <img align="center" width="100" src="assets/torus.gif" />
 
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
