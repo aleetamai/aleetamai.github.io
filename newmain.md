@@ -82,11 +82,11 @@
 
 <h1>Alessandro Tamai</h1>
 
-<img align="center" width="520" src="assets/Lie_groups2.png" />
+<img align="center" width="520" src="assets/Lie_groups3.png" />
 
 <br>
 
-<img align="left" width="520" src="assets/Lie_groups2.png" />
+<img align="left" width="520" src="assets/myphoto" />
 <img src="assets/sissalogo.png" width="130" />
 
 -------
