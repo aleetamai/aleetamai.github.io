@@ -1,3 +1,4 @@
+<img  src="assets/Lie_groups4.png" />
 
 
 <!-- DEFINE THE STYLE OF THE WEBSITE MENU  -->
@@ -79,7 +80,6 @@
 
 <!-- TITLE AND PRESENTATION  -->
 
-<img  src="assets/Lie_groups4.png" />
 
 <h1>Alessandro Tamai</h1>
 
