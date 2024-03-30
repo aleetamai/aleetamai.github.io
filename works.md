@@ -1,4 +1,5 @@
 
+<img  src="assets/Lie_groups4.png" />
 
 
 <!-- DEFINE THE STYLE OF THE WEBSITE MENU  -->
@@ -46,7 +47,6 @@
 
 
 <!-- MAIN -->
-<img  src="assets/Lie_groups4.png" />
 
 # Works
 
