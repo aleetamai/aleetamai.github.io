@@ -108,9 +108,6 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 
 <div class="container">
 <div class="left">
-
-
-
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -140,18 +137,35 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
+    <h2>Contacts</h2>
+      <p>email:  atamai@sissa.it
+      <br>
+      office: room 416</p>
   </div>
   <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
+    <h2 style="color:black;">Research Interests:</h2>
+     <p style="color:black;" > My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
   </div>
 </div>
 
 </body>
 
 
+
+<div class="container1">
+    <!-- Sidebar -->
+    <div class="sidebar1">
+    <h2>Contacts</h2>
+      <p>email:  atamai@sissa.it
+      <br>
+      office: room 416</p>
+    </div>
+    <!-- Page Content -->
+    <div class="content1">
+    <h2 style="color:black;">Research Interests:</h2>
+     <p style="color:black;" > My main interests are on applicatioons of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
+    </div>
+</div>
 
 
 
