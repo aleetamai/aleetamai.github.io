@@ -80,8 +80,7 @@
 
 <!-- TITLE AND PRESENTATION  -->
 
-<img  src="assets/Lie_groups3.png" />
-
+<img  src="assets/Lie_groups4.png" />
 
 
 <h1>Alessandro Tamai</h1>
