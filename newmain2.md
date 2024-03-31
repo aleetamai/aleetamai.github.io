@@ -115,7 +115,7 @@ office: room 416</p>
   <div class="column right" style="background-color:white;">
       <br>
     <br>
-      <img align="center" width="100" src="assets/Lie_groups.png" />
+      <img align="center" width="100" src="assets/torus.gif" />
   </div>
 </div>
 </body>
