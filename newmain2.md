@@ -59,10 +59,10 @@
   height: 180px; /* Should be removed. Only for demonstration */
 }
 .left {
-  width: 25%;
+  width: 75%;
 }
 .right {
-  width: 75%;
+  width: 25%;
 }
 
 /* Clear floats after the columns */
@@ -107,6 +107,26 @@ office: room 416</p>
 --------------
 
 
+
+<body>
+<div class="row">
+  <div class="column left" style="background-color:white;">
+    <h2>Contacts</h2>
+      <p>email:  atamai@sissa.it
+      <br>
+      office: room 416</p>
+  </div>
+  <div class="column right" style="background-color:white;">
+    <h2 style="color:black;">Research Interests:</h2>
+     <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
+  </div>
+</div>
+</body>
+
+
+
+
+
 <h2 style="color:black;" >Research Interests:</h2>
 
 <p style="color:black;" align="left"> My main interests are on applications of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
@@ -143,19 +163,4 @@ Via Bonomea, 265, 34136 Trieste (Italy)
 <br>
 
 
-<body>
-<div class="row">
-  <div class="column left" style="background-color:white;">
-    <h2>Contacts</h2>
-      <p>email:  atamai@sissa.it
-      <br>
-      office: room 416</p>
-  </div>
-  <div class="column right" style="background-color:white;">
-    <h2 style="color:black;">Research Interests:</h2>
-     <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
-  </div>
-</div>
-
-</body>
 
