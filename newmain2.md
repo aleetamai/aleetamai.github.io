@@ -98,12 +98,9 @@ office: room 416</p>
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <!-- CONTACTS AND INTERESTS  -->
 
-
---------------
 
 
 <body>
