@@ -113,6 +113,8 @@ office: room 416</p>
      <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
   </div>
   <div class="column right" style="background-color:white;">
+      <br>
+    <br>
       <img align="center" width="100" src="assets/Lie_groups.png" />
   </div>
 </div>
