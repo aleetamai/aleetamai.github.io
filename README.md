@@ -86,7 +86,7 @@
 
 <br>
 
-<img align="left" width="520" src="assets/Lie_groups2.png" />
+<img align="left" width="520" src="assets/myfoto2" />
 <img src="assets/sissalogo.png" width="130" />
 
 -------
