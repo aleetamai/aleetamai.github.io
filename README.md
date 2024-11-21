@@ -91,7 +91,7 @@
 
 -------
 
-​_Ph.D. student <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, under the supervision of Antonio Lerario._
+​_Ph.D. student <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA </b></a> in Geometry and Mathematical Physics, as member of the <a style="color:black;" href="[[https://math.sissa.it/users/alessandro-tamai](https://sites.google.com/view/lerario/home)](https://sites.google.com/view/realalgebraicgeometry/home)"><b>Real Geometry Group </b></a> under the supervision of <a style="color:black;" href="[https://math.sissa.it/users/alessandro-tamai](https://sites.google.com/view/lerario/home)"><b>Antonio Lerario </b></a>, 
 
 <br>
 
