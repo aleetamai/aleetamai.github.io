@@ -120,7 +120,10 @@
 
 <figure style="text-align: center;">
   <img src="assets/Sfondo.jpg" width="440" />
+    <img src="assets/sissa-building10.jpg" width="440" />
 <figcaption>Questa è la mia immagine con una didascalia</figcaption>
 </figure>
+
+
 
 
