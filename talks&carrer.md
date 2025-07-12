@@ -74,10 +74,8 @@
 
 
 
-
-
-
- <img align="center" width="440" src="assets/Sfondo.jpg" />
-
+<div style="text-align: center;">
+  <img src="assets/Sfondo.jpg" width="440" />
+</div>
 
 
