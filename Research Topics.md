@@ -61,7 +61,7 @@ This explicit relations are consequence of the fact that, with such conditions, 
 
 
 # Morse Theory
-
+<p>
 Given a smooth real manifold $M$ and a smooth function \(f: M \rightarrow \mathbb{R}\), at any critical point $x$ of $f$, the notion of the _Hessian matrix_ of $f$ at $x$ is well-defined. If, at every critical point, this matrix is invertible, then $f$ is called a _Morse function_.
 
 Since the Hessian is symmetric, at each critical point we can associate the number of negative eigenvalues of this matrix; this number is called the _index_ of the critical point.
@@ -69,13 +69,14 @@ Since the Hessian is symmetric, at each critical point we can associate the numb
 It turns out that the class of Morse functions on a manifold is strongly related to the topology of the manifold itself: for any $f$, the $k$-th Betti number of $M$ is bounded above by the number of critical points of $f$ of index $k$. This is the so-called (weak) _Morse inequality_. Moreover, the function defines a way of decomposing $M$, by gluing together different _handles_, giving rise to a so called _handle decomposition_ of $M$.
 
 The applications of this theory are numerous: on one hand, finding "minimal" Morse functions on a manifold helps to describe its topology; on the other hand, critical points of functions (and more generally, of functionals) play a central role in optimization problems, dynamical systems, and beyond. Counting these critical points provides a notion of the _complexity_ of the associated problem.
+</p>
 
 # Lie Algebras and Groups
 
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
   \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
-</p>
+
 
 
 $$x^2+\int_{0}^1f(x)dx$$
