@@ -126,3 +126,39 @@
 
 
 
+
+
+<div class="figures-row">
+  <figure>
+    <img src="assets/Sfondo.jpg" width="200" />
+    <figcaption>Caption 1</figcaption>
+  </figure>
+
+  <figure>
+    <img src="assets/Sfondo.jpg" width="200" />
+    <figcaption>Caption 2</figcaption>
+  </figure>
+</div>
+
+<style>
+.figures-row {
+  display: flex;
+  gap: 20px; /* space between figures */
+  justify-content: center; /* center horizontally */
+  align-items: flex-start;
+}
+figure {
+  text-align: center;
+  margin: 0;
+}
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+</style>
+
+
+
+
+
