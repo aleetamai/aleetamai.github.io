@@ -41,7 +41,7 @@
             <li><a href="https://aleetamai.github.io">Home</a></li>
             <li><a href="https://aleetamai.github.io/talks&carrer">Talks&Career</a></li>
             <li><a href="https://aleetamai.github.io/works">Works</a></li>
-            <li><a href="https://aleetamai.github.io/Examples">Examples</a></li>
+            <li><a href="https://aleetamai.github.io/Examples">Topics</a></li>
         </ul>
     </nav>
 </div>
@@ -49,6 +49,16 @@
 
 
 <!-- MAIN  -->
+
+# Statistical Learning 
+## Machine Learning
+## Manifold Hypothesis
+
+# Morse Theory
+
+# Lie Algebras and Groups
+
+
 
 
 
