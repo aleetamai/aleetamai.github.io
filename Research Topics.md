@@ -41,7 +41,7 @@
             <li><a href="https://aleetamai.github.io">Home</a></li>
             <li><a href="https://aleetamai.github.io/talks&carrer">Talks&Career</a></li>
             <li><a href="https://aleetamai.github.io/works">Works</a></li>
-            <li><a href="https://aleetamai.github.io/Topics">Topics</a></li>
+            <li><a href="https://aleetamai.github.io/Research Topics">Research Topics</a></li>
         </ul>
     </nav>
 </div>
