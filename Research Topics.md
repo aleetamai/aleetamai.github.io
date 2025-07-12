@@ -50,9 +50,9 @@
 
 <!-- MAIN  -->
 
-# Statistical Learning 
-## Machine Learning
-## Manifold Hypothesis
+# Machine Learning
+## Statistical Learning 
+## The Manifold Hypothesis
 
 Implicit regression models can be seen as generalizations of classical explicit regression methods from classical statistics (see \Cref{sec:Regression Analysis}). Informally, we are given a set of points $x^1,\dots , x^m$ sampled by a random vector $X$ with values in $\R^n$ that corresponds to a Borel measure $\mu$ compactly supported on $D_R^n$. The goal is to find a system of equations that $X$ approximately satisfies. If we restrict to the regular systems, that is if the gradients of the equations are independent, a local explicit relation between the components of $X$ is guaranteed, and the problem can be conceptually traced back to the classical problem of explicit regression (see \Cref{sec:WCSystems}).
 
@@ -60,7 +60,8 @@ This explicit relations are consequence of the fact that, with such conditions, 
 
 
 
-# Morse Theory
+# Differential Geometry
+##  Morse Theory
 <img align="left" width="200" src="assets/torus.png" />
 <p style="text-align: justify;">
 Given a smooth real manifold \(M\) and a smooth function \(f: M \rightarrow \mathbb{R}\), at any critical point \(x\) of \(f\), the notion of the <em>Hessian matrix</em> of \(f\) at \(x\) is well-defined. If, at every critical point, this matrix is invertible, then \(f\) is called a <em>Morse function</em>.
@@ -72,7 +73,9 @@ It turns out that the class of Morse functions on a manifold is strongly related
 The applications are several: on one hand, finding "minimal" Morse functions on a manifold helps to describe its topology; on the other hand, critical points of functions (and more generally, of functionals) play a central role in optimization problems, dynamical systems, and beyond. Counting these critical points provides a notion of the <em>complexity</em> of the associated problem.
 </p>
 
-# Lie Algebras and Groups
+## Stiefel Whitney Classes
+
+## Lie Algebras and Groups
 
 <p>
   When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
