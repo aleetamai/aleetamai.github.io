@@ -56,12 +56,18 @@
 <p style="text-align: justify;">
 What is statistical inference? Statistical inference is, in a sense, the inverse procedure of probability. In probability theory, we consider a random variable whose probability distribution we study, and from which we can generate data. In statistical inference, on the other hand, we start from observed data and aim to reconstruct (i.e., infer) the probability distribution that generated them.
 
-Consider, for example, a herd of 1,000 elephants, of which some are known to be female and others male. If we randomly select 100 of these elephants and count how many are male and how many are female, can we determine the composition of males and females in the entire herd? This is, in a sense, the central question of statistics. The procedure used to answer this question is generally referred to as inference. As one might expect, it is not possible to provide an exact answer to the question, but it is possible to quantify the probability that the answer is correct and to control this probability.
+Consider, for example, a herd of 1,000 elephants, of which some are known to be female and others male. If we randomly select 100 of these elephants and count how many are male and how many are female, can we determine the composition of males and females in the entire herd? This is, in a sense, the central question of statistics. The procedure used to answer this question is generally referred to as inference. As one might expect, it is not possible to provide an exact answer to the question, but it is possible to quantify the probability that the answer is correct and to control this probability. Suppose we have two mutually exclusive hypotheses, \(H_0\) and $H_1$. How can we quantify which of the two is inconsistent with the data? Assume that we observe data \(D=\left\{x_1, \ldots, x_k\right\}\) and choose a model \(M(\theta)\), that is, we assume the data are distributed as \[M(\theta): x_i \sim X_M(\theta)\] where the distribution depends on the parameters $\theta$ (for example, if the model \(M\) is Gaussian, the parameters would be its mean and variance). If we consider the null hypothesis \(H_0\), which states that the true parameter is \(\theta_0\), and the alternative hypothesis \(H_1\), which states that the true parameter is \(\theta_1\), we can write
 
-Suppose we have two mutually exclusive hypotheses, \(H_0\) and $H_1$. How can we quantify which of the two is inconsistent with the data?
-Assume that we observe data \(D=\left\{x_1, \ldots, x_k\right\}\) and choose a model \(M(\theta)\), that is, we assume the data are distributed as
+\[
+\begin{aligned}
+& H_0: M\left(\theta_0\right)=M_0 \quad \Longleftrightarrow \quad x_i \sim X_M\left(\theta_0\right)=X_0 \\
+& H_1: M\left(\theta_1\right)=M_1 \quad \Longleftrightarrow \quad x_i \sim X_M\left(\theta_1\right)=X_1
+\end{aligned}
+\] To discriminate quantitatively between the two models, we can employ a test statistic, which is a function $T$ of the random variable $X(\theta)$, whose probability distribution does not depend on $\theta$; that is, \(t(x(\theta))=t(x)\)
 
-\[M(\theta): x_i \sim X_M(\theta)\]
+
+Thus, the function \(T\) depends on the data, but its probability distribution does not. Can a such kind of function exists? Well, the answer is yes, and it is given by the Central Limit Theorem, the cornestone of probability Theory.
+
 </p>
 
 ## Statistical Learning 
