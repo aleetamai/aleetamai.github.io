@@ -53,8 +53,8 @@
 # Machine Learning
 
 ## Statistical Inference 
-What is statistical inference?
-Statistical inference is, in a sense, the inverse procedure of probability. In probability theory, we consider a random variable whose probability distribution we study, and from which we can generate data. In statistical inference, on the other hand, we start from observed data and aim to reconstruct (i.e., infer) the probability distribution that generated them.
+<p style="text-align: justify;">
+What is statistical inference? Statistical inference is, in a sense, the inverse procedure of probability. In probability theory, we consider a random variable whose probability distribution we study, and from which we can generate data. In statistical inference, on the other hand, we start from observed data and aim to reconstruct (i.e., infer) the probability distribution that generated them.
 
 Consider, for example, a herd of 1,000 elephants, of which some are known to be female and others male. If we randomly select 100 of these elephants and count how many are male and how many are female, can we determine the composition of males and females in the entire herd? This is, in a sense, the central question of statistics. The procedure used to answer this question is generally referred to as inference. As one might expect, it is not possible to provide an exact answer to the question, but it is possible to quantify the probability that the answer is correct and to control this probability.
 
@@ -62,15 +62,16 @@ Suppose we have two mutually exclusive hypotheses, \(H_0\) and $H_1$. How can we
 Assume that we observe data \(D=\left\{x_1, \ldots, x_k\right\}\) and choose a model \(M(\theta)\), that is, we assume the data are distributed as
 
 \[M(\theta): x_i \sim X_M(\theta)\]
+</p>
 
 ## Statistical Learning 
 ## The Manifold Hypothesis
-
+<p style="text-align: justify;">
 Implicit regression models can be seen as generalizations of classical explicit regression methods from classical statistics (see \Cref{sec:Regression Analysis}). Informally, we are given a set of points $x^1,\dots , x^m$ sampled by a random vector $X$ with values in $\R^n$ that corresponds to a Borel measure $\mu$ compactly supported on $D_R^n$. The goal is to find a system of equations that $X$ approximately satisfies. If we restrict to the regular systems, that is if the gradients of the equations are independent, a local explicit relation between the components of $X$ is guaranteed, and the problem can be conceptually traced back to the classical problem of explicit regression (see \Cref{sec:WCSystems}).
 
-This explicit relations are consequence of the fact that, with such conditions, the set of solutions is a smooth submanifold of $\R^n$  (see  \Cref{sec:WCSystems}). This relates the problem to the manifold hypothesis problem in manifold learning  in the formulation of [fefferman], once the hypothesis class considered is the one of manifolds with trivial normal bundle (see \Cref{sec:Algebraic Complete Intersections}), and relates with our previous work [cita nostro paper]. Informally, manifolds hypothesis asserts that collected data actually concentrates near a lower dimensional manifold of the ambient space. In term of testing this  hypothesis in the spirit of [fefferman] different classes of manifolds can be considered. Each of these choices corresponds, from the statistical point of view, to the choice of an hypothesis class for the hypothesis test. More formally, we say that the random vector $X$ satisfies the $\varepsilon$-manifold hypothesis in a hypothesis class $\mathcal{H}$ if there exists a manifold $Z \in \mathcal{H}$ such that $\E[\dist(X,Z)^2] <\varepsilon$. An illustration of the problem setting is given by \Cref{fig:manifold}.
+This explicit relations are consequence of the fact that, with such conditions, the set of solutions is a smooth submanifold of $\R^n$  (see  \Cref{sec:WCSystems}). This relates the problem to the manifold hypothesis problem in manifold learning  in the formulation of [fefferman], once the hypothesis class considered is the one of manifolds with trivial normal bundle (see \Cref{sec:Algebraic Complete Intersections}), and relates with our previous work [cita nostro paper]. Informally, manifolds hypothesis asserts that collected data actually concentrates near a lower dimensional manifold of the ambient space. In term of testing this  hypothesis in the spirit of [fefferman] different classes of manifolds can be considered. Each of these choices corresponds, from the statistical point of view, to the choice of an hypothesis class for the hypothesis test. More formally, we say that the random vector $X$ satisfies the $\varepsilon$-manifold hypothesis in a hypothesis class $\mathcal{H}$ if there exists a manifold $Z \in \mathcal{H}$ such that $\mathbb{E}[\dist(X,Z)^2] <\varepsilon$. An illustration of the problem setting is given by \Cref{fig:manifold}.
 
-
+</p>
 
 # Differential Geometry
 ##  Morse Theory
