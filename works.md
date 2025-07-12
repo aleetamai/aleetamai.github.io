@@ -1,7 +1,4 @@
 
-<img  src="assets/Lie_groups4.png" />
-
-
 <!-- DEFINE THE STYLE OF THE WEBSITE MENU  -->
 
 
@@ -58,7 +55,7 @@
 
 
 
-<img align="center" width="440" src="assets/sissa-building10.jpg" />
-
-
+<div style="text-align: center;">
+  <img src="assets/sissa-building10.jpg" width="440" />
+</div>
 
