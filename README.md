@@ -115,7 +115,7 @@
     <h2 style="color:black;">Where I am (right now):</h2>
      <p style="color:black;" > SISSA is a beautiful research center in Trieste (Italy), surrounded by mountains and sea, wrapped in the wind.  </p>
   </div>
-</div>
+
 
 
 
