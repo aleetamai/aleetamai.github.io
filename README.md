@@ -123,6 +123,10 @@
 </div>
 
 
+<div style="text-align: center;">
+  <img src="assets/sissa-building10.jpg" width="440" />
+</div>
+
 
 
 
