@@ -113,18 +113,10 @@
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
   </div>
   <div class="column right" style="background-color:white;">
-    <h2 style="color:black;">Research Interests:</h2>
-     <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse Theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
+    <h2 style="color:black;">Where I am (right now):</h2>
+     <p style="color:black;" > SISSA is a beautiful research center in Trieste (Italy), surrounded by mountains and sea, wrapped in the wind.  </p>
   </div>
 </div>
 
