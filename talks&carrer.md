@@ -58,16 +58,16 @@
 
 ## Conferences and Seminars 
 
-- _"New challenges across Analysis and Geometry"_ conference, at SISSA, Trieste  (Speaker)
-- "Metric Algebraic Geometry" conference at KTH, Stockholm (Sweden) November 2024 (Speaker)
-- Visitor at KTH,  Stockholm (Sweden), on November/December 2024 (Attended)
-- "Metric Measure Spaces, Ricci Curvature, and Optimal Transport" conference in Varenna (Italy), on September 2024 (Attended)
-- Visitor at KTH,  Stockholm (Sweden), on November/December 2023 (Attended)
-- "High Dimensional Statistics and Random Matrices" conference in Porquerolles (France), on June 2023 (Attended)
-- "Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference" conference at ICTP, Trieste (Italy), on May 2023  (Attended)
-- "Quantinuum Quantum Hackathon" at  ICTP, Trieste  (Italy), on April 2023  (Attended)
-- "From Statistical Physics to Random Geometry"  conference at SISSA, Trieste (Italy), on September 2022  (Attended)
-- Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference, _ICTP Trieste (Italy) 16 / 05 / 2022 20/05/2022_
+- _"New challenges across Analysis and Geometry"_ conference at SISSA, Trieste  (Speaker);
+- _"Metric Algebraic Geometry"_ conference at KTH, Stockholm (Sweden), November 2024 (Speaker);
+- Visitor at KTH, Stockholm (Sweden), November/December 2024 (Attended);
+- _"Metric Measure Spaces, Ricci Curvature, and Optimal Transport"_ conference in Varenna (Italy), September 2024 (Attended);
+- Visitor at KTH,  Stockholm (Sweden), on November/December 2023 (Attended);
+- _"High Dimensional Statistics and Random Matrices"_ conference in Porquerolles (France), on June 2023 (Attended);
+- _"Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference"_ conference at ICTP, Trieste (Italy), on May 2023  (Attended);
+- _"Quantinuum Quantum Hackathon"_ at  ICTP, Trieste  (Italy), on April 2023 (Attended);
+- _"From Statistical Physics to Random Geometry"_  conference at SISSA, Trieste (Italy), on September 2022  (Attended);
+- _"Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference"_ at ICTP Trieste (Italy), on May 2022 (Attended);
 
 ## Past Work Experiences
 - Exerciser of Geometria 1 (Linear Algebra), _Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)_
