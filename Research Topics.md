@@ -63,7 +63,7 @@ Consider, for example, a herd of 1,000 elephants, of which some are known to be 
 & H_0: M\left(\theta_0\right)=M_0 \quad \Longleftrightarrow \quad x_i \sim X_M\left(\theta_0\right)=X_0 \\
 & H_1: M\left(\theta_1\right)=M_1 \quad \Longleftrightarrow \quad x_i \sim X_M\left(\theta_1\right)=X_1
 \end{aligned}
-\] To discriminate quantitatively between the two models, we can employ a test statistic, which is a function $T$ of the random variable $X(\theta)$, whose probability distribution does not depend on $\theta$; that is, \(t(x(\theta))=t(x)\)
+\] To discriminate quantitatively between the two models, we can employ a test statistic, which is a function \(T\) of the random variable \(X(\theta)\), whose probability distribution does not depend on \(\theta\); that is, \(t(x(\theta))=t(x)\)
 
 
 Thus, the function \(T\) depends on the data, but its probability distribution does not. Can a such kind of function exists? Well, the answer is yes, and it is given by the Central Limit Theorem, the cornestone of probability Theory.
