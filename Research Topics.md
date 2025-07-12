@@ -51,6 +51,18 @@
 <!-- MAIN  -->
 
 # Machine Learning
+
+## Statistical Inference 
+What is statistical inference?
+Statistical inference is, in a sense, the inverse procedure of probability. In probability theory, we consider a random variable whose probability distribution we study, and from which we can generate data. In statistical inference, on the other hand, we start from observed data and aim to reconstruct (i.e., infer) the probability distribution that generated them.
+
+Consider, for example, a herd of 1,000 elephants, of which some are known to be female and others male. If we randomly select 100 of these elephants and count how many are male and how many are female, can we determine the composition of males and females in the entire herd? This is, in a sense, the central question of statistics. The procedure used to answer this question is generally referred to as inference. As one might expect, it is not possible to provide an exact answer to the question, but it is possible to quantify the probability that the answer is correct and to control this probability.
+
+Suppose we have two mutually exclusive hypotheses, \(H_0\) and $H_1$. How can we quantify which of the two is inconsistent with the data?
+Assume that we observe data \(D=\left\{x_1, \ldots, x_k\right\}\) and choose a model \(M(\theta)\), that is, we assume the data are distributed as
+
+\[M(\theta): x_i \sim X_M(\theta)\]
+
 ## Statistical Learning 
 ## The Manifold Hypothesis
 
