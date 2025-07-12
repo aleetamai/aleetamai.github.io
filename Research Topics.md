@@ -70,7 +70,7 @@ Since the Hessian is symmetric, at each critical point we can associate the numb
 
 It turns out that the class of Morse functions on a manifold is strongly related to the topology of the manifold itself: for any \(f\), the \(k\)-th Betti number of \(M\) is bounded above by the number of critical points of \(f\) of index \(k\). These are the so-called (weak) <em>Morse inequalities</em>. Moreover, the function defines a way of decomposing \(M\), by gluing together different <em>handles</em>, giving rise to a so called <em>handle decomposition</em> of \(M\).
 
-The applications are several: on one hand, finding "minimal" Morse functions on a manifold helps to describe its topology; on the other hand, critical points of functions (and more generally, of functionals) play a central role in optimization problems, dynamical systems, and beyond. Counting these critical points provides a notion of the <em>complexity</em> of the associated problem.
+The applications are several: on one hand, finding "minimal" Morse functions on a manifold helps to describe its topology; on the other hand, critical points of functions (and more generally, of functionals) play a central role in optimization problems, dynamical systems (periodic solutions), functional analysis, theoretical physiscs and beyond. In particular for in optimization problems, counting these critical points provides a notion of the <em>complexity</em> of the associated problem.
 </p>
 
 ## Stiefel Whitney Classes
