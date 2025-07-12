@@ -61,6 +61,7 @@ This explicit relations are consequence of the fact that, with such conditions, 
 
 
 # Morse Theory
+<img align="left" width="520" src="assets/myfoto2" />
 <p style="text-align: justify;">
 Given a smooth real manifold \(M\) and a smooth function \(f: M \rightarrow \mathbb{R}\), at any critical point \(x\) of \(f\), the notion of the <em>Hessian matrix</em> of \(f\) at \(x\) is well-defined. If, at every critical point, this matrix is invertible, then \(f\) is called a <em>Morse function</em>.
 
