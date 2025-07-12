@@ -90,6 +90,45 @@
 
 
 
+<style>
+.conference-list {
+  list-style: none;
+  padding-left: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.conference-list li {
+  background: #f9f9f9;
+  margin-bottom: 8px;
+  padding: 10px 15px;
+  border-left: 4px solid #4a90e2;
+  border-radius: 4px;
+}
+
+.conference-list li strong {
+  color: #333;
+}
+
+.conference-list li em {
+  color: #555;
+}
+</style>
+
+<ul class="conference-list">
+  <li><strong>Speaker</strong> at the <em>"New Challenges Across Analysis and Geometry"</em> conference, SISSA, Trieste (Italy), May 2025.</li>
+  <li><strong>Speaker</strong> at the <em>"Metric Algebraic Geometry"</em> conference, KTH, Stockholm (Sweden), November 2024.</li>
+  <li><strong>Visitor</strong> at KTH, Stockholm (Sweden), November–December 2024.</li>
+  <li><strong>Attended</strong> the <em>"Metric Measure Spaces, Ricci Curvature, and Optimal Transport"</em> conference, Varenna (Italy), September 2024.</li>
+  <li><strong>Visitor</strong> at KTH, Stockholm (Sweden), November–December 2023.</li>
+  <li><strong>Attended</strong> the <em>"High Dimensional Statistics and Random Matrices"</em> conference, Porquerolles (France), June 2023.</li>
+  <li><strong>Attended</strong> the <em>"Youth in High Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference"</em> conference, ICTP, Trieste (Italy), May 2023.</li>
+  <li><strong>Attended</strong> the <em>"Quantinuum Quantum Hackathon"</em>, ICTP, Trieste (Italy), April 2023.</li>
+  <li><strong>Attended</strong> the <em>"From Statistical Physics to Random Geometry"</em> conference, SISSA, Trieste (Italy), September 2022.</li>
+</ul>
+
+
+
  <img align="center" width="440" src="assets/Sfondo.jpg" />
 
 
