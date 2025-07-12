@@ -58,7 +58,7 @@
 
 ## Conferences and Seminars 
 
-- "New challenges across Analysis and Geometry" conference, at SISSA, Trieste  (Speaker)
+- _"New challenges across Analysis and Geometry"_ conference, at SISSA, Trieste  (Speaker)
 - "Metric Algebraic Geometry" conference at KTH, Stockholm (Sweden) November 2024 (Speaker)
 - Visitor at KTH,  Stockholm (Sweden), on November/December 2024 (Attended)
 - "Metric Measure Spaces, Ricci Curvature, and Optimal Transport" conference in Varenna (Italy), on September 2024 (Attended)
