@@ -107,10 +107,6 @@
     <h2 style="color:black;">Research Interests:</h2>
      <p style="color:black;" > My main interests are on applications of metric geometry, real algebraic geometry and Morse Theory in machine learning. Other interests cover differential topology, Riemannian and subRiemannian geometry and Lie groups.</p>
   </div>
-</div>
-
-</body>
-
 
 
   </div>
@@ -120,7 +116,7 @@
   </div>
 </div>
 
-</body>
+
 
 
 
