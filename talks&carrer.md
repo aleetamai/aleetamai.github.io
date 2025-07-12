@@ -47,14 +47,6 @@
 
 <!-- MAIN  -->
 
-# Career 
-
-## Career
-- Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
-- Master's degree in Mathematics, title  "Singular Solutions of Rolling Balls Model: a Topological View", _University of Trieste, Trieste (Italy), 2017-2020_
-- Bachelor's degree in Mathematics, title "Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi" _University of Trieste, Trieste, Italy, 2014-2017_
-- Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", _Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017_
-- Diploma of Perito Chimico, _Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014_
 
 ## Conferences and Seminars 
 
@@ -68,6 +60,13 @@
 - _"Quantinuum Quantum Hackathon"_ at  ICTP, Trieste  (Italy), on April 2023 (Attended);
 - _"From Statistical Physics to Random Geometry"_  conference at SISSA, Trieste (Italy), on September 2022  (Attended);
 - _"Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference"_ at ICTP Trieste (Italy), on May 2022 (Attended);
+
+## Career
+- Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
+- Master's degree in Mathematics, title  "Singular Solutions of Rolling Balls Model: a Topological View", _University of Trieste, Trieste (Italy), 2017-2020_
+- Bachelor's degree in Mathematics, title "Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi" _University of Trieste, Trieste, Italy, 2014-2017_
+- Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", _Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017_
+- Diploma of Perito Chimico, _Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014_
 
 ## Past Work Experiences
 - Exerciser of Geometria 1 (Linear Algebra), _Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)_
