@@ -52,7 +52,7 @@
     </a>
   </p>
 
-# Unpublished
+## Unpublished
 
 - <a href="assets/Master_Thesis.pdf" style="color:black;" download>Singular Solutions of Rolling Balls Model a Topological View
 (Master Thesis, English) </a>
