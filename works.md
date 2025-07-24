@@ -56,6 +56,7 @@
 
 <a href="assets/Master_Thesis.pdf" style="color:black;" download>Singular Solutions of Rolling Balls Model a Topological View
 (Master Thesis, English) </a>
+
 <a href="assets/Bachelor_Thesis.pdf" style="color:black;" download> Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi
  (Bachelor Thesis, Italian) </a>
 
