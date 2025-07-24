@@ -85,7 +85,7 @@
 
 <img align="left" width="520" src="assets/myfoto2" alt="My photo" />
 <img src="assets/sissalogo.png" width="130" alt="SISSA logo" />
-
+<br>
 <p>
     <em>Ph.D. student 
     <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA</b></a> 
