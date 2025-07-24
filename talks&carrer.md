@@ -56,8 +56,11 @@
 - Visitor at KTH,  Stockholm (Sweden), on November/December 2023 (Attended);
 - _"High Dimensional Statistics and Random Matrices"_ conference in Porquerolles (France), on June 2023 (Attended);
 - _"Youth in High-Dimensions: Recent Progress in Machine Learning, High-Dimensional Statistics and Inference"_ conference at ICTP, Trieste (Italy), on May 2023  (Attended);
-- _"Quantinuum Quantum Hackathon"_ at  ICTP, Trieste  (Italy), on April 2023 (Attended);
 - _"From Statistical Physics to Random Geometry"_  conference at SISSA, Trieste (Italy), on September 2022  (Attended);
+
+## Schools and Masterclass
+- _“Peer-to-peer Science Communication”_ (SISSA Scicom Masterclass) June 2025
+- _"Quantinuum Quantum Hackathon"_ at  ICTP, Trieste  (Italy), on April 2023 (Attended);
 - _"Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference"_ at ICTP Trieste (Italy), on May 2022 (Attended);
 
 ## Career
