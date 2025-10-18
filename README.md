@@ -111,11 +111,11 @@
         <p style="color:black;">
             My main interests are on applications of metric geometry, real algebraic geometry and Morse Theory in machine learning.
         </p>
-<p>
+<p style="text-align: justify;">
 More broadly, the following is a list of results and topics that I’ve encountered during my career and have found most fascinating: in classical mechanics, the <a href="https://en.wikipedia.org/wiki/Liouville%E2%80%93Arnold_theorem" target="_blank">Liouville–Arnold Theorem</a> and the <a href="https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem" target="_blank">KAM Theorem</a>; in random geometry and probability, the <a href="https://www3.nd.edu/~lnicolae/Kac_Rice.pdf" target="_blank">Kac–Rice formula</a>, <a href="https://en.wikipedia.org/wiki/Random_matrix" target="_blank">random matrix theory</a>, and the theory of <a href="https://en.wikipedia.org/wiki/Spin_glass" target="_blank">spin glasses</a>, particularly the <a href="https://en.wikipedia.org/wiki/Replica_trick" target="_blank">Parisi replica method</a> and its connections with information theory and machine learning; in symplectic and differential geometry, the <a href="https://terrytao.wordpress.com/2013/02/08/the-harish-chandra-itzykson-zuber-integral-formula/" target="_blank">Harish-Chandra–Itzykson–Zuber integral</a>, the <a href="https://en.wikipedia.org/wiki/Duistermaat%E2%80%93Heckman_formula" target="_blank">Duistermaat–Heckman Theorem</a>, and <a href="https://en.wikipedia.org/wiki/Connection_(principal_bundle)" target="_blank">Cartan’s theory of connections</a> on principal bundles; and in geometry and topology, the <a href="https://en.wikipedia.org/wiki/Weyl%27s_tube_formula" target="_blank">Weyl tube formula</a> for real and Kähler manifolds, <a href="https://en.wikipedia.org/wiki/Semisimple_Lie_algebra" target="_blank">semisimple Lie algebra classification</a>, <a href="https://en.wikipedia.org/wiki/Quaternion" target="_blank">quaternions</a>, and <a href="https://en.wikipedia.org/wiki/Morse_theory" target="_blank">Morse theory</a> of critical points.
 </p>
 
-<p>
+<p style="text-align: justify;">
 Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_blank">Testing the Manifold Hypothesis</a></em> by C. Fefferman, S. Mitter, and H. Narayanan, <em><a href="https://www.tandfonline.com/doi/abs/10.1080/00029890.1966.11970915" target="_blank">Can One Hear the Shape of a Drum?</a></em> by M. Kac, <em><a href="https://www.jstor.org/stable/1969467" target="_blank">On the Total Curvature of Knots</a></em> by J. Milnor, and <em><a href="https://arxiv.org/abs/1606.02551" target="_blank">Real Algebraic Manifolds</a></em> by J. Nash.
 </p>
     </div>
