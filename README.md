@@ -118,8 +118,18 @@ More broadly, the following informal list collects results and topics I've encou
 <p style="text-align: justify;">
 Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_blank">Testing the Manifold Hypothesis</a></em> by C. Fefferman, S. Mitter, and H. Narayanan, <em><a href="https://www.tandfonline.com/doi/abs/10.1080/00029890.1966.11970915" target="_blank">Can One Hear the Shape of a Drum?</a></em> by M. Kac, <em><a href="https://www.jstor.org/stable/1969467" target="_blank">On the Total Curvature of Knots</a></em> by J. Milnor, and <em><a href="https://arxiv.org/abs/1606.02551" target="_blank">Real Algebraic Manifolds</a></em> by J. Nash.
 </p>
+
+<p style="text-align: justify;">
+If I had to summarize what I’ve learned in a few words, I’d say that… the Laplace method and Fourier transform are a nice combination for computing thermodynamic limits… manifolds with bounded geometry are useful for getting quantitative bounds on functions… and the geometry of a manifold can often be estimated from functions defined on it. Are you stuck in a proof? Try the inverse or implicit function theorem—they usually save the day.
+
+</p>
+
     </div>
 </div>
+
+
+
+
 
 <!-- Dove mi trovo -->
 <div class="row">
