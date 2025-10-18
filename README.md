@@ -120,7 +120,7 @@ Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_bla
 </p>
 
 <p style="text-align: justify;">
-If I had to summarize what I’ve learned in a few words, I’d say that… the Laplace method and Fourier transform are a nice combination for computing thermodynamic limits… manifolds with bounded geometry are useful for getting quantitative bounds on functions… and the geometry of a manifold can often be estimated from functions defined on it. Are you stuck in a proof? Try the inverse or implicit function theorem—they usually save the day.
+If I had to summarize what I’ve learned in a few words, I’d say that… the  Fourier transform and Laplace method are a nice combination for computing thermodynamic limits… manifolds with bounded geometry are useful for getting quantitative bounds on functions… and the geometry of a manifold can often be estimated from functions defined on it. Are you stuck in a proof? Try the inverse or implicit function theorem—they usually save the day.
 
 </p>
 
