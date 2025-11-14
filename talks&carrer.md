@@ -49,6 +49,7 @@
 
 ## Conferences and Seminars 
 
+- _"Conference on Mathematics of Machine Learning 2025"_ conference at TU Hamburg,  Hamburg  (Poster);
 - _"New challenges across Analysis and Geometry"_ conference at SISSA, Trieste  (Speaker);
 - _"Metric Algebraic Geometry"_ conference at KTH, Stockholm (Sweden), November 2024 (Speaker);
 - Visitor at KTH, Stockholm (Sweden), November/December 2024 (Attended);
