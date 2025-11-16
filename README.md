@@ -116,7 +116,7 @@ More broadly, the following informal list collects results and topics I’ve enc
 </p>
 
 <p style="text-align: justify;">
-Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_blank">Testing the Manifold Hypothesis</a></em> by C. Fefferman, S. Mitter, and H. Narayanan, <em><a href="https://www.tandfonline.com/doi/abs/10.1080/00029890.1966.11970915" target="_blank">Can One Hear the Shape of a Drum?</a></em> by M. Kac, <em><a href="https://www.jstor.org/stable/1969467" target="_blank">On the Total Curvature of Knots</a></em> by J. Milnor, and <em><a href="https://arxiv.org/abs/1606.02551" target="_blank">Real Algebraic Manifolds</a></em> by J. Nash.
+Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_blank">Testing the Manifold Hypothesis</a></em> by C. Fefferman, S. Mitter, and H. Narayanan, <em><a href="https://www.jstor.org/stable/1969467" target="_blank">On the Total Curvature of Knots</a></em> by J. Milnor, and <em><a href="https://arxiv.org/abs/1606.02551" target="_blank">Real Algebraic Manifolds</a></em> by J. Nash.
 </p>
 
     </div>
