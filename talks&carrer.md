@@ -71,7 +71,7 @@
 - Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", _Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017_
 - Diploma of Perito Chimico, _Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014_
 
-## Past Work Experiences
+## Teaching Experiences
 - Exerciser of Geometria 1 (Linear Algebra), _Università degli Studi di Trieste, October 2019- January 2020, Trieste (Italia)_
 - Exerciser of Geometria 3B (Topology), _Universita' degli Studi di Trieste, March 2019- June 2019, Trieste (Italia)_
 - Exerciser of Analisi 1 (Calculus), _Università degli Studi di Trieste, October 2018- January 2019 Trieste (Italia)_
