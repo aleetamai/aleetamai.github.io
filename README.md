@@ -89,10 +89,10 @@
 <p>
     <em>I received my Ph.D. in Geometry and Mathematical Physics 
     <a style="color:black;" href="https://math.sissa.it/users/alessandro-tamai"><b>at SISSA</b></a>, 
-    as a member of the 
-    <a style="color:black;" href="https://sites.google.com/view/realalgebraicgeometry/home"><b>Real Geometry Group</b></a>, 
     under the supervision of 
-    <a style="color:black;" href="https://sites.google.com/view/lerario/home"><b>Antonio Lerario</b></a>.
+    <a style="color:black;" href="https://sites.google.com/view/lerario/home"><b>Antonio Lerario</b></a>, 
+    as a member of the 
+    <a style="color:black;" href="https://sites.google.com/view/realalgebraicgeometry/home"><b>Real Geometry Group</b></a>.
     </em>
 </p>
 
