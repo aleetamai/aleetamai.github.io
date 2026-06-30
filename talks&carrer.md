@@ -65,6 +65,7 @@
 - _"Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference"_ at ICTP Trieste (Italy), on May 2022 (Attended);
 
 ## Career
+- Ph.D. (cum laude) in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), 1 April 2025_
 - Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
 - Master's degree in Mathematics, title  "Singular Solutions of Rolling Balls Model: a Topological View", _University of Trieste, Trieste (Italy), 2017-2020_
 - Bachelor's degree in Mathematics, title "Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi" _University of Trieste, Trieste, Italy, 2014-2017_
