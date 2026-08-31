@@ -53,7 +53,7 @@
 
 # Ongoing Projects
 
-- Testing Algebraic Complete Intersections: Algorithmic Implementation and Numerical Experiments. <em>(in preparation)</em>.
-- Sampling Implicit Manifolds from Equations. <em>(in preparation)</em>.
-- Testing Real Algebraic Manifolds. <em>(in preparation)</em>.
+- Testing algebraic complete intersections: algorithmic implementation and numerical experiments. <em>(in preparation)</em>.
+- Sampling implicit manifolds from equations. <em>(in preparation)</em>.
+- Testing real algebraic manifolds. <em>(in preparation)</em>.
 
