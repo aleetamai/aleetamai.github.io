@@ -53,4 +53,7 @@
 
 # Ongoing Projects
 
+- Sampling Implicit $C^2$ Manifolds from Equations</em>.
+
+
 
