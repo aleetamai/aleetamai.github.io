@@ -51,5 +51,6 @@
       Testing the variety hypothesis (arXiv:2507.16705)</a>, <em>with A. Lerario, M. Scolamiero, and P. Roos Hoefgeest</em>.
 - Testing algebraic complete intersections. (in preparation)</em>.
 
+# Ongoing Projects
 
 
