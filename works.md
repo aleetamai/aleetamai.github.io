@@ -53,7 +53,6 @@
 
 # Ongoing Projects
 
-- Sampling Implicit Manifolds from Equations</em>.
-
+- Sampling Implicit Manifolds from Equations. <em>(in preparation)</em>.
 
 
