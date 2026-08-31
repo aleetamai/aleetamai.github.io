@@ -55,5 +55,4 @@
 
 - Testing algebraic complete intersections: algorithmic implementation and numerical experiments. <em>(in preparation)</em>.
 - Sampling implicit manifolds from equations. <em>(in preparation)</em>.
-- Testing real algebraic manifolds. <em>(in preparation)</em>.
 
