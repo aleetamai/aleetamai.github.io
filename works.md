@@ -45,7 +45,7 @@
 
 <!-- MAIN -->
 
-# Preprints
+# Manuscripts and Preprints
 
 - <a href="https://arxiv.org/abs/2507.16705#:~:text=Given%20a%20probability%20measure%20on,%22testing%20the%20variety%20hypothesis%22" target="_blank">
       Testing the variety hypothesis (arXiv:2507.16705)</a>, <em>with A. Lerario, M. Scolamiero, and P. Roos Hoefgeest</em>.
