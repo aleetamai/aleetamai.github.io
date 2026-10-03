@@ -4,23 +4,565 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <!-- Pagina ancora in sviluppo -->
+  <!-- Development page: keep out of search engines for now -->
   <meta name="robots" content="noindex, nofollow">
 
-  <title>Panther</title>
+  <title>Panther Project</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family:
+        -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Helvetica,
+        Arial,
+        sans-serif;
+
+      background: #ffffff;
+      color: #1a1a1a;
+      line-height: 1.6;
+    }
+
+    a {
+      color: inherit;
+    }
+
+    .container {
+      width: min(100% - 40px, 960px);
+      margin: 0 auto;
+    }
+
+    /* -------------------------
+       Header
+       ------------------------- */
+
+    header {
+      padding: 28px 0;
+      border-bottom: 1px solid #eeeeee;
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    .site-name {
+      font-size: 16px;
+      font-weight: 600;
+      text-decoration: none;
+      letter-spacing: -0.01em;
+    }
+
+    .back-link {
+      font-size: 14px;
+      color: #666666;
+      text-decoration: none;
+    }
+
+    .back-link:hover {
+      color: #111111;
+    }
+
+    /* -------------------------
+       Hero
+       ------------------------- */
+
+    .hero {
+      padding: 120px 0 100px;
+      text-align: center;
+    }
+
+    .eyebrow {
+      margin-bottom: 24px;
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #777777;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(64px, 12vw, 112px);
+      line-height: 0.95;
+      font-weight: 700;
+      letter-spacing: -0.055em;
+    }
+
+    .hero-subtitle {
+      max-width: 700px;
+      margin: 36px auto 0;
+      font-size: clamp(20px, 3vw, 28px);
+      line-height: 1.4;
+      letter-spacing: -0.02em;
+      color: #4f4f4f;
+    }
+
+    .status {
+      display: inline-block;
+      margin-top: 38px;
+      padding: 9px 15px;
+      border: 1px solid #dddddd;
+      border-radius: 999px;
+      font-size: 13px;
+      color: #666666;
+      background: #fafafa;
+    }
+
+    /* -------------------------
+       Main sections
+       ------------------------- */
+
+    section {
+      padding: 90px 0;
+      border-top: 1px solid #eeeeee;
+    }
+
+    .section-grid {
+      display: grid;
+      grid-template-columns: 1fr 2fr;
+      gap: 70px;
+    }
+
+    .section-label {
+      margin: 0;
+      font-size: 14px;
+      font-weight: 600;
+      color: #777777;
+    }
+
+    .section-content h2 {
+      margin: 0 0 28px;
+      font-size: clamp(32px, 5vw, 48px);
+      line-height: 1.1;
+      letter-spacing: -0.04em;
+    }
+
+    .section-content p {
+      margin: 0 0 22px;
+      font-size: 18px;
+      color: #505050;
+    }
+
+    .section-content p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* -------------------------
+       Features
+       ------------------------- */
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      margin-top: 48px;
+    }
+
+    .feature {
+      padding: 28px;
+      border: 1px solid #e6e6e6;
+      border-radius: 18px;
+      background: #fcfcfc;
+    }
+
+    .feature-number {
+      margin-bottom: 30px;
+      font-size: 12px;
+      color: #999999;
+    }
+
+    .feature h3 {
+      margin: 0 0 12px;
+      font-size: 20px;
+      letter-spacing: -0.02em;
+    }
+
+    .feature p {
+      margin: 0;
+      font-size: 15px;
+      line-height: 1.6;
+      color: #666666;
+    }
+
+    /* -------------------------
+       Panther concept
+       ------------------------- */
+
+    .statement {
+      padding: 120px 0;
+      text-align: center;
+    }
+
+    .statement p {
+      max-width: 820px;
+      margin: 0 auto;
+      font-size: clamp(30px, 5vw, 52px);
+      line-height: 1.2;
+      font-weight: 500;
+      letter-spacing: -0.04em;
+      color: #222222;
+    }
+
+    .statement span {
+      color: #aaaaaa;
+    }
+
+    /* -------------------------
+       Development
+       ------------------------- */
+
+    .development-box {
+      padding: 50px;
+      border-radius: 24px;
+      background: #f6f6f6;
+    }
+
+    .development-box h2 {
+      margin: 0 0 16px;
+      font-size: 34px;
+      letter-spacing: -0.03em;
+    }
+
+    .development-box p {
+      max-width: 650px;
+      margin: 0;
+      font-size: 17px;
+      color: #5f5f5f;
+    }
+
+    /* -------------------------
+       Footer
+       ------------------------- */
+
+    footer {
+      padding: 40px 0 60px;
+      border-top: 1px solid #eeeeee;
+      font-size: 13px;
+      color: #888888;
+    }
+
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      gap: 20px;
+    }
+
+    /* -------------------------
+       Mobile
+       ------------------------- */
+
+    @media (max-width: 700px) {
+
+      .hero {
+        padding: 90px 0 80px;
+      }
+
+      .section-grid {
+        grid-template-columns: 1fr;
+        gap: 26px;
+      }
+
+      section {
+        padding: 70px 0;
+      }
+
+      .features {
+        grid-template-columns: 1fr;
+      }
+
+      .statement {
+        padding: 90px 0;
+      }
+
+      .development-box {
+        padding: 32px;
+      }
+
+      .footer-inner {
+        flex-direction: column;
+      }
+    }
+  </style>
 </head>
 
 <body>
 
-  <h1>Panther</h1>
+  <header>
+    <div class="container header-inner">
 
-  <p>
-    A macOS environment for creating, organizing and managing your projects.
-  </p>
+      <a class="site-name" href="/">
+        aleetamai.github.io
+      </a>
 
-  <p>
-    Panther is currently in development.
-  </p>
+      <a class="back-link" href="/">
+        ← Back to main site
+      </a>
+
+    </div>
+  </header>
+
+
+  <main>
+
+    <!-- HERO -->
+
+    <section class="hero">
+      <div class="container">
+
+        <div class="eyebrow">
+          A macOS project
+        </div>
+
+        <h1>Panther</h1>
+
+        <p class="hero-subtitle">
+          A workspace for creating, organizing and managing
+          your serious projects in one place.
+        </p>
+
+        <div class="status">
+          Currently in development
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- INTRODUCTION -->
+
+    <section>
+      <div class="container section-grid">
+
+        <div>
+          <p class="section-label">
+            The project
+          </p>
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            One place for the projects that matter.
+          </h2>
+
+          <p>
+            Panther is a macOS application designed around a simple idea:
+            important projects should not live as disconnected files and
+            folders scattered across your computer.
+          </p>
+
+          <p>
+            Instead, Panther provides a structured environment where projects
+            can be created, organized, opened and managed from a single place.
+          </p>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- STATEMENT -->
+
+    <div class="statement">
+      <div class="container">
+
+        <p>
+          Panther is not just another editor.
+          <span>
+            It is the place where your projects live.
+          </span>
+        </p>
+
+      </div>
+    </div>
+
+
+    <!-- FEATURES -->
+
+    <section>
+      <div class="container">
+
+        <div class="section-grid">
+
+          <div>
+            <p class="section-label">
+              What Panther does
+            </p>
+          </div>
+
+          <div class="section-content">
+
+            <h2>
+              A unified project environment.
+            </h2>
+
+            <p>
+              Panther brings together tools for writing, presenting
+              and managing projects while keeping the underlying project
+              structure organized and consistent.
+            </p>
+
+          </div>
+
+        </div>
+
+
+        <div class="features">
+
+          <div class="feature">
+
+            <div class="feature-number">
+              01
+            </div>
+
+            <h3>
+              Project Manager
+            </h3>
+
+            <p>
+              Create, organize, rename, archive and manage Panther projects
+              from a central library.
+            </p>
+
+          </div>
+
+
+          <div class="feature">
+
+            <div class="feature-number">
+              02
+            </div>
+
+            <h3>
+              Documents
+            </h3>
+
+            <p>
+              Work with structured text and document projects without losing
+              track of their files and resources.
+            </p>
+
+          </div>
+
+
+          <div class="feature">
+
+            <div class="feature-number">
+              03
+            </div>
+
+            <h3>
+              Presentations
+            </h3>
+
+            <p>
+              Build and manage presentation projects within the same
+              environment used for the rest of your work.
+            </p>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- PHILOSOPHY -->
+
+    <section>
+      <div class="container section-grid">
+
+        <div>
+          <p class="section-label">
+            Philosophy
+          </p>
+        </div>
+
+        <div class="section-content">
+
+          <h2>
+            Your projects remain organized by design.
+          </h2>
+
+          <p>
+            A Panther project exists inside the storage structure managed
+            by Panther itself.
+          </p>
+
+          <p>
+            This means that the application is not simply opening arbitrary
+            files from different places. Panther becomes the central library
+            for the projects you deliberately choose to manage with it.
+          </p>
+
+          <p>
+            Files created outside Panther can remain outside Panther.
+            But the projects you care about can have a clear, predictable
+            and organized home.
+          </p>
+
+        </div>
+
+      </div>
+    </section>
+
+
+    <!-- DEVELOPMENT STATUS -->
+
+    <section>
+      <div class="container">
+
+        <div class="development-box">
+
+          <h2>
+            Panther is currently in development.
+          </h2>
+
+          <p>
+            Panther is being actively designed and tested for macOS.
+            A public download will become available when the application
+            reaches a sufficiently stable release.
+          </p>
+
+        </div>
+
+      </div>
+    </section>
+
+
+  </main>
+
+
+  <footer>
+
+    <div class="container footer-inner">
+
+      <div>
+        Panther Project
+      </div>
+
+      <div>
+        macOS · In development
+      </div>
+
+    </div>
+
+  </footer>
 
 </body>
 </html>
