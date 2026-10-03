@@ -10,16 +10,43 @@
   <title>Panther Project</title>
 
   <style>
+
+    /* =========================================================
+       PANTHER
+       ========================================================= */
+
+    :root {
+      --background: #ffffff;
+      --text: #1a1a1a;
+      --secondary: #555555;
+      --muted: #888888;
+      --border: #eeeeee;
+      --soft-border: #e5e5e5;
+      --surface: #f7f7f7;
+
+      /*
+        Temporary Panther accent.
+        Easy to change later when the final visual identity
+        of the application is defined.
+      */
+      --accent: #237f78;
+      --accent-soft: #edf7f5;
+    }
+
+
     * {
       box-sizing: border-box;
     }
+
 
     html {
       scroll-behavior: smooth;
     }
 
+
     body {
       margin: 0;
+
       font-family:
         -apple-system,
         BlinkMacSystemFont,
@@ -28,28 +55,42 @@
         Arial,
         sans-serif;
 
-      background: #ffffff;
-      color: #1a1a1a;
+      background: var(--background);
+      color: var(--text);
+
       line-height: 1.6;
+
+      -webkit-font-smoothing: antialiased;
     }
+
+
+    button,
+    a {
+      font: inherit;
+    }
+
 
     a {
       color: inherit;
     }
+
 
     .container {
       width: min(100% - 40px, 960px);
       margin: 0 auto;
     }
 
-    /* -------------------------
-       Header
-       ------------------------- */
+
+
+    /* =========================================================
+       HEADER
+       ========================================================= */
 
     header {
       padding: 28px 0;
-      border-bottom: 1px solid #eeeeee;
+      border-bottom: 1px solid var(--border);
     }
+
 
     .header-inner {
       display: flex;
@@ -58,249 +99,926 @@
       gap: 20px;
     }
 
+
     .site-name {
       font-size: 16px;
       font-weight: 600;
-      text-decoration: none;
       letter-spacing: -0.01em;
+      text-decoration: none;
     }
+
 
     .back-link {
       font-size: 14px;
       color: #666666;
       text-decoration: none;
+
+      transition: color 0.2s ease;
     }
+
 
     .back-link:hover {
       color: #111111;
     }
 
-    /* -------------------------
-       Hero
-       ------------------------- */
+
+
+    /* =========================================================
+       HERO
+       ========================================================= */
 
     .hero {
-      padding: 120px 0 100px;
+      padding: 120px 0 105px;
       text-align: center;
     }
 
+
     .eyebrow {
       margin-bottom: 24px;
+
       font-size: 13px;
       font-weight: 600;
+
       letter-spacing: 0.12em;
       text-transform: uppercase;
+
       color: #777777;
     }
 
+
     h1 {
       margin: 0;
+
       font-size: clamp(64px, 12vw, 112px);
       line-height: 0.95;
+
       font-weight: 700;
       letter-spacing: -0.055em;
     }
 
+
     .hero-subtitle {
-      max-width: 700px;
+      max-width: 720px;
       margin: 36px auto 0;
+
       font-size: clamp(20px, 3vw, 28px);
       line-height: 1.4;
+
       letter-spacing: -0.02em;
       color: #4f4f4f;
     }
 
+
     .status {
-      display: inline-block;
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+
       margin-top: 38px;
       padding: 9px 15px;
+
       border: 1px solid #dddddd;
       border-radius: 999px;
+
       font-size: 13px;
       color: #666666;
+
       background: #fafafa;
     }
 
-    /* -------------------------
-       Main sections
-       ------------------------- */
+
+    .status-dot {
+      width: 7px;
+      height: 7px;
+
+      border-radius: 50%;
+
+      background: var(--accent);
+    }
+
+
+
+    /* =========================================================
+       GENERAL SECTIONS
+       ========================================================= */
 
     section {
       padding: 90px 0;
-      border-top: 1px solid #eeeeee;
+      border-top: 1px solid var(--border);
     }
+
 
     .section-grid {
       display: grid;
       grid-template-columns: 1fr 2fr;
+
       gap: 70px;
     }
 
+
     .section-label {
       margin: 0;
+
       font-size: 14px;
       font-weight: 600;
+
       color: #777777;
     }
 
+
     .section-content h2 {
       margin: 0 0 28px;
+
       font-size: clamp(32px, 5vw, 48px);
       line-height: 1.1;
+
       letter-spacing: -0.04em;
     }
 
+
     .section-content p {
       margin: 0 0 22px;
+
       font-size: 18px;
+
       color: #505050;
     }
+
 
     .section-content p:last-child {
       margin-bottom: 0;
     }
 
-    /* -------------------------
-       Features
-       ------------------------- */
 
-    .features {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 24px;
-      margin-top: 48px;
-    }
 
-    .feature {
-      padding: 28px;
-      border: 1px solid #e6e6e6;
-      border-radius: 18px;
-      background: #fcfcfc;
-    }
-
-    .feature-number {
-      margin-bottom: 30px;
-      font-size: 12px;
-      color: #999999;
-    }
-
-    .feature h3 {
-      margin: 0 0 12px;
-      font-size: 20px;
-      letter-spacing: -0.02em;
-    }
-
-    .feature p {
-      margin: 0;
-      font-size: 15px;
-      line-height: 1.6;
-      color: #666666;
-    }
-
-    /* -------------------------
-       Panther concept
-       ------------------------- */
+    /* =========================================================
+       STATEMENT
+       ========================================================= */
 
     .statement {
       padding: 120px 0;
+
       text-align: center;
+
+      border-top: 1px solid var(--border);
     }
 
+
     .statement p {
-      max-width: 820px;
+      max-width: 850px;
       margin: 0 auto;
+
       font-size: clamp(30px, 5vw, 52px);
       line-height: 1.2;
+
       font-weight: 500;
       letter-spacing: -0.04em;
+
       color: #222222;
     }
+
 
     .statement span {
       color: #aaaaaa;
     }
 
-    /* -------------------------
-       Development
-       ------------------------- */
+
+
+    /* =========================================================
+       FEATURES
+       ========================================================= */
+
+    .features {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+
+      gap: 24px;
+
+      margin-top: 48px;
+    }
+
+
+    .feature {
+      padding: 28px;
+
+      border: 1px solid #e6e6e6;
+      border-radius: 18px;
+
+      background: #fcfcfc;
+    }
+
+
+    .feature-number {
+      margin-bottom: 30px;
+
+      font-size: 12px;
+      color: #999999;
+    }
+
+
+    .feature h3 {
+      margin: 0 0 12px;
+
+      font-size: 20px;
+      letter-spacing: -0.02em;
+    }
+
+
+    .feature p {
+      margin: 0;
+
+      font-size: 15px;
+      line-height: 1.6;
+
+      color: #666666;
+    }
+
+
+
+    /* =========================================================
+       RESEARCH LIFECYCLE
+       ========================================================= */
+
+    .lifecycle {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+
+      gap: 1px;
+
+      margin-top: 50px;
+
+      overflow: hidden;
+
+      border: 1px solid var(--soft-border);
+      border-radius: 18px;
+
+      background: var(--soft-border);
+    }
+
+
+    .lifecycle-item {
+      padding: 27px 24px;
+
+      background: #ffffff;
+    }
+
+
+    .lifecycle-item span {
+      display: block;
+
+      margin-bottom: 14px;
+
+      font-size: 12px;
+      color: var(--accent);
+    }
+
+
+    .lifecycle-item strong {
+      display: block;
+
+      margin-bottom: 7px;
+
+      font-size: 16px;
+      font-weight: 600;
+      letter-spacing: -0.015em;
+    }
+
+
+    .lifecycle-item p {
+      margin: 0;
+
+      font-size: 13px;
+      line-height: 1.5;
+
+      color: #777777;
+    }
+
+
+
+    /* =========================================================
+       EXPANDABLE PANELS
+       ========================================================= */
+
+    .interactive-area {
+      padding: 100px 0;
+      border-top: 1px solid var(--border);
+    }
+
+
+    .interactive-intro {
+      max-width: 700px;
+      margin-bottom: 50px;
+    }
+
+
+    .interactive-intro h2 {
+      margin: 0 0 18px;
+
+      font-size: clamp(34px, 5vw, 50px);
+      line-height: 1.1;
+
+      letter-spacing: -0.04em;
+    }
+
+
+    .interactive-intro p {
+      margin: 0;
+
+      font-size: 18px;
+      color: #606060;
+    }
+
+
+    .accordion {
+      border-top: 1px solid var(--soft-border);
+    }
+
+
+    .accordion-item {
+      border-bottom: 1px solid var(--soft-border);
+    }
+
+
+    .accordion-trigger {
+      width: 100%;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 30px;
+
+      padding: 32px 0;
+
+      border: none;
+
+      background: transparent;
+
+      text-align: left;
+      color: inherit;
+
+      cursor: pointer;
+    }
+
+
+    .accordion-trigger-text {
+      display: flex;
+      align-items: baseline;
+
+      gap: 18px;
+    }
+
+
+    .accordion-trigger-title {
+      font-size: clamp(30px, 5vw, 44px);
+      line-height: 1;
+
+      font-weight: 500;
+      letter-spacing: -0.035em;
+    }
+
+
+    .accordion-trigger-caption {
+      font-size: 14px;
+      color: #888888;
+    }
+
+
+    .accordion-icon {
+      position: relative;
+
+      width: 32px;
+      height: 32px;
+
+      flex: 0 0 32px;
+    }
+
+
+    .accordion-icon::before,
+    .accordion-icon::after {
+      content: "";
+
+      position: absolute;
+
+      top: 50%;
+      left: 50%;
+
+      width: 18px;
+      height: 1px;
+
+      background: #444444;
+
+      transform: translate(-50%, -50%);
+
+      transition: transform 0.3s ease;
+    }
+
+
+    .accordion-icon::after {
+      transform: translate(-50%, -50%) rotate(90deg);
+    }
+
+
+    .accordion-item.open .accordion-icon::after {
+      transform: translate(-50%, -50%) rotate(0deg);
+    }
+
+
+    .accordion-content {
+      max-height: 0;
+
+      overflow: hidden;
+
+      opacity: 0;
+
+      transition:
+        max-height 0.55s ease,
+        opacity 0.35s ease;
+    }
+
+
+    .accordion-item.open .accordion-content {
+      max-height: 1500px;
+
+      opacity: 1;
+    }
+
+
+    .accordion-inner {
+      padding: 5px 0 55px;
+    }
+
+
+
+    /* =========================================================
+       SLIDER
+       ========================================================= */
+
+    .slider {
+      position: relative;
+
+      overflow: hidden;
+
+      border: 1px solid var(--soft-border);
+      border-radius: 24px;
+
+      background: #fafafa;
+    }
+
+
+    .slides {
+      display: flex;
+
+      transition: transform 0.45s cubic-bezier(.22,.61,.36,1);
+    }
+
+
+    .slide {
+      min-width: 100%;
+
+      padding: 55px;
+    }
+
+
+    .slide-count {
+      margin-bottom: 50px;
+
+      font-size: 13px;
+      font-weight: 600;
+
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+
+      color: var(--accent);
+    }
+
+
+    .slide h3 {
+      max-width: 720px;
+
+      margin: 0 0 22px;
+
+      font-size: clamp(30px, 5vw, 46px);
+      line-height: 1.12;
+
+      letter-spacing: -0.04em;
+    }
+
+
+    .slide p {
+      max-width: 720px;
+
+      margin: 0;
+
+      font-size: 18px;
+      line-height: 1.7;
+
+      color: #595959;
+    }
+
+
+    .slide-note {
+      margin-top: 30px !important;
+
+      font-size: 14px !important;
+      color: #8a8a8a !important;
+    }
+
+
+    .slide-visual {
+      display: flex;
+      align-items: center;
+
+      min-height: 115px;
+
+      margin-top: 42px;
+      padding: 30px;
+
+      border: 1px solid #e4e4e4;
+      border-radius: 16px;
+
+      background: #ffffff;
+    }
+
+
+    .visual-flow {
+      width: 100%;
+
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 12px;
+    }
+
+
+    .visual-node {
+      flex: 1;
+
+      padding: 14px 12px;
+
+      border: 1px solid #e4e4e4;
+      border-radius: 12px;
+
+      background: #fafafa;
+
+      text-align: center;
+
+      font-size: 13px;
+      color: #555555;
+    }
+
+
+    .visual-arrow {
+      color: #aaaaaa;
+      font-size: 18px;
+    }
+
+
+
+    /* =========================================================
+       SLIDER CONTROLS
+       ========================================================= */
+
+    .slider-controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+
+      gap: 20px;
+
+      padding: 20px 25px;
+
+      border-top: 1px solid #e6e6e6;
+
+      background: #ffffff;
+    }
+
+
+    .slider-buttons {
+      display: flex;
+      gap: 8px;
+    }
+
+
+    .slider-button {
+      width: 42px;
+      height: 42px;
+
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+      padding: 0;
+
+      border: 1px solid #dddddd;
+      border-radius: 50%;
+
+      background: #ffffff;
+      color: #333333;
+
+      cursor: pointer;
+
+      transition:
+        background 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+    }
+
+
+    .slider-button:hover:not(:disabled) {
+      background: #f3f3f3;
+      border-color: #cccccc;
+
+      transform: translateY(-1px);
+    }
+
+
+    .slider-button:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+
+
+    .slider-dots {
+      display: flex;
+      align-items: center;
+
+      gap: 7px;
+    }
+
+
+    .slider-dot {
+      width: 7px;
+      height: 7px;
+
+      padding: 0;
+
+      border: none;
+      border-radius: 50%;
+
+      background: #d1d1d1;
+
+      cursor: pointer;
+
+      transition:
+        width 0.25s ease,
+        border-radius 0.25s ease,
+        background 0.25s ease;
+    }
+
+
+    .slider-dot.active {
+      width: 22px;
+
+      border-radius: 999px;
+
+      background: var(--accent);
+    }
+
+
+
+    /* =========================================================
+       DOWNLOAD
+       ========================================================= */
+
+    .download-status {
+      display: inline-flex;
+      align-items: center;
+
+      margin-bottom: 30px;
+      padding: 8px 13px;
+
+      border-radius: 999px;
+
+      background: var(--accent-soft);
+      color: var(--accent);
+
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+
+    .fake-download-button {
+      display: inline-block;
+
+      margin-top: 32px;
+      padding: 13px 20px;
+
+      border-radius: 10px;
+
+      background: #eeeeee;
+      color: #999999;
+
+      font-size: 14px;
+      font-weight: 600;
+
+      cursor: not-allowed;
+    }
+
+
+
+    /* =========================================================
+       DEVELOPMENT
+       ========================================================= */
 
     .development-box {
       padding: 50px;
+
       border-radius: 24px;
+
       background: #f6f6f6;
     }
 
+
     .development-box h2 {
       margin: 0 0 16px;
+
       font-size: 34px;
       letter-spacing: -0.03em;
     }
 
+
     .development-box p {
-      max-width: 650px;
+      max-width: 680px;
+
       margin: 0;
+
       font-size: 17px;
+
       color: #5f5f5f;
     }
 
-    /* -------------------------
-       Footer
-       ------------------------- */
+
+
+    /* =========================================================
+       FOOTER
+       ========================================================= */
 
     footer {
       padding: 40px 0 60px;
-      border-top: 1px solid #eeeeee;
+
+      border-top: 1px solid var(--border);
+
       font-size: 13px;
       color: #888888;
     }
 
+
     .footer-inner {
       display: flex;
       justify-content: space-between;
+
       gap: 20px;
     }
 
-    /* -------------------------
-       Mobile
-       ------------------------- */
+
+
+    /* =========================================================
+       MOBILE
+       ========================================================= */
+
+    @media (max-width: 800px) {
+
+      .lifecycle {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+    }
+
 
     @media (max-width: 700px) {
+
+      .container {
+        width: min(100% - 32px, 960px);
+      }
+
 
       .hero {
         padding: 90px 0 80px;
       }
 
+
       .section-grid {
         grid-template-columns: 1fr;
+
         gap: 26px;
       }
+
 
       section {
         padding: 70px 0;
       }
 
+
       .features {
         grid-template-columns: 1fr;
       }
+
 
       .statement {
         padding: 90px 0;
       }
 
+
+      .interactive-area {
+        padding: 75px 0;
+      }
+
+
+      .accordion-trigger {
+        padding: 27px 0;
+      }
+
+
+      .accordion-trigger-text {
+        display: block;
+      }
+
+
+      .accordion-trigger-caption {
+        display: block;
+
+        margin-top: 9px;
+      }
+
+
+      .slide {
+        padding: 35px 27px;
+      }
+
+
+      .slide-count {
+        margin-bottom: 35px;
+      }
+
+
+      .slide-visual {
+        padding: 20px;
+      }
+
+
+      .visual-flow {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+
+      .visual-arrow {
+        transform: rotate(90deg);
+
+        text-align: center;
+      }
+
+
+      .slider-controls {
+        padding: 17px 18px;
+      }
+
+
       .development-box {
         padding: 32px;
       }
 
+
       .footer-inner {
         flex-direction: column;
       }
+
     }
+
+
+    @media (max-width: 500px) {
+
+      .header-inner {
+        align-items: flex-start;
+      }
+
+
+      .back-link {
+        text-align: right;
+      }
+
+
+      .lifecycle {
+        grid-template-columns: 1fr;
+      }
+
+    }
+
   </style>
 </head>
 
+
 <body>
 
+
+  <!-- =======================================================
+       HEADER
+       ======================================================= -->
+
   <header>
+
     <div class="container header-inner">
 
       <a class="site-name" href="/">
@@ -312,108 +1030,147 @@
       </a>
 
     </div>
+
   </header>
+
 
 
   <main>
 
-    <!-- HERO -->
+
+    <!-- =====================================================
+         HERO
+         ===================================================== -->
 
     <section class="hero">
+
       <div class="container">
 
         <div class="eyebrow">
-          A macOS project
+          A macOS research project
         </div>
 
-        <h1>Panther</h1>
+
+        <h1>
+          Panther
+        </h1>
+
 
         <p class="hero-subtitle">
-          A workspace for creating, organizing and managing
-          your reserach projects in one place.
+          A workspace for organizing the entire life of your research projects.
         </p>
 
+
         <div class="status">
+
+          <span class="status-dot"></span>
+
           Currently in development
+
         </div>
 
       </div>
+
     </section>
 
 
-    <!-- INTRODUCTION -->
+
+    <!-- =====================================================
+         THE PROJECT
+         ===================================================== -->
 
     <section>
+
       <div class="container section-grid">
 
         <div>
+
           <p class="section-label">
             The project
           </p>
+
         </div>
+
 
         <div class="section-content">
 
           <h2>
-            One place for the projects that matter.
+            Research is made of projects, not isolated files.
           </h2>
 
-          <p>
-            Panther is a macOS application designed around a simple idea:
-            research projects should not live as disconnected files and
-            folders scattered across your computer.
-          </p>
 
           <p>
-            Instead, Panther provides a structured environment where projects
-            can be created, organized, opened and managed from a single place.
+            A research project is much more than a paper.
+            It evolves through drafts, presentations, coauthors,
+            submissions, conferences, revisions, deadlines and decisions.
+          </p>
+
+
+          <p>
+            Panther is designed to keep all of these elements connected
+            to the project they belong to, inside a single structured
+            environment.
           </p>
 
         </div>
 
       </div>
+
     </section>
 
 
-    <!-- STATEMENT -->
+
+    <!-- =====================================================
+         STATEMENT
+         ===================================================== -->
 
     <div class="statement">
+
       <div class="container">
 
         <p>
-          Panther is not just another editor.
+          Panther is not simply where you edit your work.
           <span>
-            It is the place where your projects live.
+            It is where your research lives.
           </span>
         </p>
 
       </div>
+
     </div>
 
 
-    <!-- FEATURES -->
+
+    <!-- =====================================================
+         FEATURES
+         ===================================================== -->
 
     <section>
+
       <div class="container">
 
         <div class="section-grid">
 
           <div>
+
             <p class="section-label">
-              What Panther does
+              One environment
             </p>
+
           </div>
+
 
           <div class="section-content">
 
             <h2>
-              A unified project environment.
+              From the first draft to the final publication.
             </h2>
 
+
             <p>
-              Panther brings together tools for writing, presenting
-              and managing projects while keeping the underlying project
-              structure organized and consistent.
+              Panther treats every research project as a structured object
+              whose documents, presentations, people, events and history
+              belong together.
             </p>
 
           </div>
@@ -421,7 +1178,9 @@
         </div>
 
 
+
         <div class="features">
+
 
           <div class="feature">
 
@@ -430,15 +1189,16 @@
             </div>
 
             <h3>
-              Project Manager
+              Papers
             </h3>
 
             <p>
-              Create, organize, rename, archive and manage Panther projects
-              from a central library.
+              Keep drafts, versions and related files organized as the paper
+              evolves over time.
             </p>
 
           </div>
+
 
 
           <div class="feature">
@@ -448,15 +1208,16 @@
             </div>
 
             <h3>
-              Documents
+              Presentations
             </h3>
 
             <p>
-              Work with structured text and document projects without losing
-              track of their files and resources.
+              Create and manage presentations while keeping them connected
+              to the research project they communicate.
             </p>
 
           </div>
+
 
 
           <div class="feature">
@@ -466,32 +1227,102 @@
             </div>
 
             <h3>
-              Presentations
+              Research history
             </h3>
 
             <p>
-              Build and manage presentation projects within the same
-              environment used for the rest of your work.
+              Track authors, conferences, submissions, journals, important
+              dates and the evolution of each project.
             </p>
 
           </div>
 
         </div>
 
+
+
+        <div class="lifecycle">
+
+
+          <div class="lifecycle-item">
+
+            <span>01</span>
+
+            <strong>Develop</strong>
+
+            <p>
+              Ideas, drafts and project files.
+            </p>
+
+          </div>
+
+
+
+          <div class="lifecycle-item">
+
+            <span>02</span>
+
+            <strong>Present</strong>
+
+            <p>
+              Seminars, conferences and talks.
+            </p>
+
+          </div>
+
+
+
+          <div class="lifecycle-item">
+
+            <span>03</span>
+
+            <strong>Submit</strong>
+
+            <p>
+              Journals, versions and revisions.
+            </p>
+
+          </div>
+
+
+
+          <div class="lifecycle-item">
+
+            <span>04</span>
+
+            <strong>Archive</strong>
+
+            <p>
+              A structured history of your research.
+            </p>
+
+          </div>
+
+
+        </div>
+
       </div>
+
     </section>
 
 
-    <!-- PHILOSOPHY -->
+
+    <!-- =====================================================
+         PHILOSOPHY
+         ===================================================== -->
 
     <section>
+
       <div class="container section-grid">
 
         <div>
+
           <p class="section-label">
             Philosophy
           </p>
+
         </div>
+
 
         <div class="section-content">
 
@@ -499,32 +1330,649 @@
             Your projects remain organized by design.
           </h2>
 
+
           <p>
-            A Panther project exists inside the storage structure managed
+            A Panther project exists inside the project structure managed
             by Panther itself.
           </p>
 
-          <p>
-            This means that the application is not simply opening arbitrary
-            files from different places. Panther becomes the central library
-            for the projects you deliberately choose to manage with it.
-          </p>
 
           <p>
-            Files created outside Panther can remain outside Panther.
-            But the projects you care about can have a clear, predictable
-            and organized home.
+            Instead of opening arbitrary files scattered across different
+            locations, Panther becomes the central library for the research
+            projects you deliberately choose to manage with it.
+          </p>
+
+
+          <p>
+            Over time, those projects form a structured database of your
+            research activity: what you worked on, with whom, where it was
+            presented, where it was submitted, and how it evolved.
           </p>
 
         </div>
 
       </div>
+
     </section>
 
 
-    <!-- DEVELOPMENT STATUS -->
+
+    <!-- =====================================================
+         INTERACTIVE SECTIONS
+         ===================================================== -->
+
+    <div class="interactive-area">
+
+      <div class="container">
+
+
+        <div class="interactive-intro">
+
+          <h2>
+            Explore Panther.
+          </h2>
+
+          <p>
+            Learn how Panther works and, when a public release is available,
+            follow the guided installation process.
+          </p>
+
+        </div>
+
+
+
+        <div class="accordion">
+
+
+          <!-- =================================================
+               OVERVIEW
+               ================================================= -->
+
+          <div class="accordion-item">
+
+            <button
+              class="accordion-trigger"
+              type="button"
+              aria-expanded="false"
+            >
+
+              <span class="accordion-trigger-text">
+
+                <span class="accordion-trigger-title">
+                  Overview
+                </span>
+
+                <span class="accordion-trigger-caption">
+                  Discover the main ideas behind Panther
+                </span>
+
+              </span>
+
+
+              <span class="accordion-icon"></span>
+
+            </button>
+
+
+
+            <div class="accordion-content">
+
+              <div class="accordion-inner">
+
+
+                <div class="slider" data-slider>
+
+
+                  <div class="slides">
+
+
+                    <!-- SLIDE 1 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 01 / 06
+                      </div>
+
+                      <h3>
+                        Every research project gets its own home.
+                      </h3>
+
+                      <p>
+                        Panther starts from the project itself.
+                        Papers, presentations, metadata and related material
+                        are organized around a single research project rather
+                        than existing as unrelated files.
+                      </p>
+
+
+                      <div class="slide-visual">
+
+                        <div class="visual-flow">
+
+                          <div class="visual-node">
+                            Paper
+                          </div>
+
+                          <div class="visual-arrow">
+                            →
+                          </div>
+
+                          <div class="visual-node">
+                            Panther Project
+                          </div>
+
+                          <div class="visual-arrow">
+                            ←
+                          </div>
+
+                          <div class="visual-node">
+                            Presentation
+                          </div>
+
+                        </div>
+
+                      </div>
+
+                    </article>
+
+
+
+                    <!-- SLIDE 2 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 02 / 06
+                      </div>
+
+                      <h3>
+                        Papers evolve. Panther remembers how.
+                      </h3>
+
+                      <p>
+                        A project can contain different versions of a paper
+                        across its entire lifetime: early drafts, working
+                        versions, submissions, revisions and final versions.
+                      </p>
+
+                      <p class="slide-note">
+                        The goal is not simply to store files, but to preserve
+                        the history and structure of the project.
+                      </p>
+
+                    </article>
+
+
+
+                    <!-- SLIDE 3 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 03 / 06
+                      </div>
+
+                      <h3>
+                        Presentations belong to the research behind them.
+                      </h3>
+
+                      <p>
+                        Talks, seminar slides and conference presentations
+                        remain associated with the corresponding project,
+                        making it easy to understand where and when the work
+                        was presented.
+                      </p>
+
+
+                      <div class="slide-visual">
+
+                        <div class="visual-flow">
+
+                          <div class="visual-node">
+                            Seminar
+                          </div>
+
+                          <div class="visual-node">
+                            Conference
+                          </div>
+
+                          <div class="visual-node">
+                            Workshop
+                          </div>
+
+                          <div class="visual-node">
+                            Talk
+                          </div>
+
+                        </div>
+
+                      </div>
+
+                    </article>
+
+
+
+                    <!-- SLIDE 4 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 04 / 06
+                      </div>
+
+                      <h3>
+                        Keep people connected to the projects you share.
+                      </h3>
+
+                      <p>
+                        Panther keeps track of coauthors and collaborators
+                        as part of the project information, creating a clearer
+                        picture of how your research is connected across
+                        different collaborations.
+                      </p>
+
+                    </article>
+
+
+
+                    <!-- SLIDE 5 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 05 / 06
+                      </div>
+
+                      <h3>
+                        Follow the life of a project.
+                      </h3>
+
+                      <p>
+                        Conferences, journal submissions, revisions,
+                        deadlines and other important events can become part
+                        of the history of the project rather than information
+                        scattered across calendars, folders and notes.
+                      </p>
+
+
+                      <div class="slide-visual">
+
+                        <div class="visual-flow">
+
+                          <div class="visual-node">
+                            Draft
+                          </div>
+
+                          <div class="visual-arrow">
+                            →
+                          </div>
+
+                          <div class="visual-node">
+                            Conference
+                          </div>
+
+                          <div class="visual-arrow">
+                            →
+                          </div>
+
+                          <div class="visual-node">
+                            Submission
+                          </div>
+
+                          <div class="visual-arrow">
+                            →
+                          </div>
+
+                          <div class="visual-node">
+                            Revision
+                          </div>
+
+                        </div>
+
+                      </div>
+
+                    </article>
+
+
+
+                    <!-- SLIDE 6 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Overview · 06 / 06
+                      </div>
+
+                      <h3>
+                        Your projects become your research database.
+                      </h3>
+
+                      <p>
+                        As Panther grows with your work, it becomes more than
+                        a collection of folders. It becomes a structured record
+                        of your research: projects, publications, presentations,
+                        collaborators, conferences, submissions and history.
+                      </p>
+
+                      <p class="slide-note">
+                        Panther is currently at an early stage of this vision,
+                        with the core environment already under active
+                        development.
+                      </p>
+
+                    </article>
+
+
+                  </div>
+
+
+
+                  <div class="slider-controls">
+
+
+                    <div class="slider-dots"></div>
+
+
+                    <div class="slider-buttons">
+
+                      <button
+                        class="slider-button prev"
+                        type="button"
+                        aria-label="Previous slide"
+                      >
+                        ←
+                      </button>
+
+                      <button
+                        class="slider-button next"
+                        type="button"
+                        aria-label="Next slide"
+                      >
+                        →
+                      </button>
+
+                    </div>
+
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+
+
+          <!-- =================================================
+               DOWNLOAD
+               ================================================= -->
+
+          <div class="accordion-item">
+
+            <button
+              class="accordion-trigger"
+              type="button"
+              aria-expanded="false"
+            >
+
+              <span class="accordion-trigger-text">
+
+                <span class="accordion-trigger-title">
+                  Download
+                </span>
+
+                <span class="accordion-trigger-caption">
+                  A guided installation process
+                </span>
+
+              </span>
+
+
+              <span class="accordion-icon"></span>
+
+            </button>
+
+
+
+            <div class="accordion-content">
+
+              <div class="accordion-inner">
+
+
+                <div class="slider" data-slider>
+
+
+                  <div class="slides">
+
+
+                    <!-- DOWNLOAD 1 -->
+
+                    <article class="slide">
+
+                      <div class="download-status">
+                        Public release not yet available
+                      </div>
+
+
+                      <div class="slide-count">
+                        Download · 01 / 05
+                      </div>
+
+
+                      <h3>
+                        Download Panther.
+                      </h3>
+
+
+                      <p>
+                        When Panther reaches its first public release,
+                        this page will provide a direct download link.
+                        You will not need to understand GitHub or navigate
+                        through the repository.
+                      </p>
+
+
+                      <div class="fake-download-button">
+                        Download Panther for macOS
+                      </div>
+
+                    </article>
+
+
+
+                    <!-- DOWNLOAD 2 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Download · 02 / 05
+                      </div>
+
+
+                      <h3>
+                        Open the downloaded file.
+                      </h3>
+
+
+                      <p>
+                        Once the download has completed, open the Panther
+                        installation file from your Downloads folder.
+                      </p>
+
+
+                      <p class="slide-note">
+                        A screenshot of this step will be added when the
+                        final distribution format has been defined.
+                      </p>
+
+                    </article>
+
+
+
+                    <!-- DOWNLOAD 3 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Download · 03 / 05
+                      </div>
+
+
+                      <h3>
+                        Add Panther to your Applications.
+                      </h3>
+
+
+                      <p>
+                        Move Panther to the Applications folder so that it
+                        behaves like any other macOS application.
+                      </p>
+
+
+                      <div class="slide-visual">
+
+                        <div class="visual-flow">
+
+                          <div class="visual-node">
+                            Panther
+                          </div>
+
+                          <div class="visual-arrow">
+                            →
+                          </div>
+
+                          <div class="visual-node">
+                            Applications
+                          </div>
+
+                        </div>
+
+                      </div>
+
+                    </article>
+
+
+
+                    <!-- DOWNLOAD 4 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Download · 04 / 05
+                      </div>
+
+
+                      <h3>
+                        Launch Panther for the first time.
+                      </h3>
+
+
+                      <p>
+                        Open Panther from the Applications folder.
+                        If macOS requires an additional confirmation on the
+                        first launch, this guide will show exactly what to do.
+                      </p>
+
+
+                      <p class="slide-note">
+                        The final instructions will depend on the signing and
+                        notarization process used for the public release.
+                      </p>
+
+                    </article>
+
+
+
+                    <!-- DOWNLOAD 5 -->
+
+                    <article class="slide">
+
+                      <div class="slide-count">
+                        Download · 05 / 05
+                      </div>
+
+
+                      <h3>
+                        Create your first Panther project.
+                      </h3>
+
+
+                      <p>
+                        Once Panther is running, create a project and let
+                        Panther manage its structure from the beginning.
+                      </p>
+
+
+                      <p class="slide-note">
+                        The public release is still in development.
+                        These steps will be finalized before Panther becomes
+                        available for download.
+                      </p>
+
+                    </article>
+
+
+                  </div>
+
+
+
+                  <div class="slider-controls">
+
+
+                    <div class="slider-dots"></div>
+
+
+                    <div class="slider-buttons">
+
+                      <button
+                        class="slider-button prev"
+                        type="button"
+                        aria-label="Previous slide"
+                      >
+                        ←
+                      </button>
+
+                      <button
+                        class="slider-button next"
+                        type="button"
+                        aria-label="Next slide"
+                      >
+                        →
+                      </button>
+
+                    </div>
+
+
+                  </div>
+
+                </div>
+
+              </div>
+
+            </div>
+
+          </div>
+
+
+        </div>
+
+      </div>
+
+    </div>
+
+
+
+    <!-- =====================================================
+         DEVELOPMENT
+         ===================================================== -->
 
     <section>
+
       <div class="container">
 
         <div class="development-box">
@@ -533,20 +1981,29 @@
             Panther is currently in development.
           </h2>
 
+
           <p>
-            Panther is being actively designed and tested for macOS.
-            A public download will become available when the application
-            reaches a sufficiently stable release.
+            Panther already includes a developing set of tools for managing
+            research projects, documents and presentations, but the broader
+            research-management environment described here is still evolving.
+            A public download will become available when Panther reaches a
+            sufficiently stable release.
           </p>
 
         </div>
 
       </div>
+
     </section>
 
 
   </main>
 
+
+
+  <!-- =======================================================
+       FOOTER
+       ======================================================= -->
 
   <footer>
 
@@ -563,6 +2020,224 @@
     </div>
 
   </footer>
+
+
+
+  <!-- =======================================================
+       JAVASCRIPT
+       ======================================================= -->
+
+  <script>
+
+    /* ---------------------------------------------------------
+       ACCORDIONS
+       --------------------------------------------------------- */
+
+    const accordionItems =
+      document.querySelectorAll(".accordion-item");
+
+
+    accordionItems.forEach(item => {
+
+      const trigger =
+        item.querySelector(".accordion-trigger");
+
+
+      trigger.addEventListener("click", () => {
+
+        const isOpen =
+          item.classList.contains("open");
+
+
+        item.classList.toggle("open");
+
+
+        trigger.setAttribute(
+          "aria-expanded",
+          String(!isOpen)
+        );
+
+      });
+
+    });
+
+
+
+    /* ---------------------------------------------------------
+       SLIDERS
+       --------------------------------------------------------- */
+
+    const sliders =
+      document.querySelectorAll("[data-slider]");
+
+
+    sliders.forEach(slider => {
+
+      const slidesContainer =
+        slider.querySelector(".slides");
+
+
+      const slides =
+        Array.from(
+          slider.querySelectorAll(".slide")
+        );
+
+
+      const previousButton =
+        slider.querySelector(".prev");
+
+
+      const nextButton =
+        slider.querySelector(".next");
+
+
+      const dotsContainer =
+        slider.querySelector(".slider-dots");
+
+
+      let currentSlide = 0;
+
+
+
+      /* Create navigation dots */
+
+      slides.forEach((slide, index) => {
+
+        const dot =
+          document.createElement("button");
+
+
+        dot.className = "slider-dot";
+
+        dot.type = "button";
+
+        dot.setAttribute(
+          "aria-label",
+          `Go to slide ${index + 1}`
+        );
+
+
+        dot.addEventListener("click", () => {
+
+          currentSlide = index;
+
+          updateSlider();
+
+        });
+
+
+        dotsContainer.appendChild(dot);
+
+      });
+
+
+
+      const dots =
+        Array.from(
+          dotsContainer.querySelectorAll(".slider-dot")
+        );
+
+
+
+      /* Update slider */
+
+      function updateSlider() {
+
+        slidesContainer.style.transform =
+          `translateX(-${currentSlide * 100}%)`;
+
+
+        dots.forEach((dot, index) => {
+
+          dot.classList.toggle(
+            "active",
+            index === currentSlide
+          );
+
+        });
+
+
+        previousButton.disabled =
+          currentSlide === 0;
+
+
+        nextButton.disabled =
+          currentSlide === slides.length - 1;
+
+      }
+
+
+
+      /* Previous */
+
+      previousButton.addEventListener(
+        "click",
+        () => {
+
+          if (currentSlide > 0) {
+
+            currentSlide--;
+
+            updateSlider();
+
+          }
+
+        }
+      );
+
+
+
+      /* Next */
+
+      nextButton.addEventListener(
+        "click",
+        () => {
+
+          if (currentSlide < slides.length - 1) {
+
+            currentSlide++;
+
+            updateSlider();
+
+          }
+
+        }
+      );
+
+
+
+      /* Keyboard navigation */
+
+      slider.addEventListener(
+        "keydown",
+        event => {
+
+          if (event.key === "ArrowLeft") {
+
+            previousButton.click();
+
+          }
+
+
+          if (event.key === "ArrowRight") {
+
+            nextButton.click();
+
+          }
+
+        }
+      );
+
+
+
+      /* Initialize */
+
+      updateSlider();
+
+    });
+
+  </script>
+
 
 </body>
 </html>
