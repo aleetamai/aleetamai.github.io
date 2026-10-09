@@ -50,7 +50,7 @@ The following list includes online preprints, completed manuscripts in the prepu
 
 - <a href="https://arxiv.org/abs/2507.16705#:~:text=Given%20a%20probability%20measure%20on,%22testing%20the%20variety%20hypothesis%22" target="_blank">
      Testing the Variety Hypothesis (arXiv:2507.16705)</a>, <em>with A. Lerario, M. Scolamiero, and P. Roos Hoefgeest</em>.
-- Testing Algebraic Complete Intersections. <em>(Completed manuscript, prepublication stage)</em>.
+- <a href="https://arxiv.org/abs/2507.16705#:~:text=Given%20a%20probability%20measure%20on,%22testing%20the%20variety%20hypothesis%22" target="_blank"> Testing Algebraic Complete Intersections.(arXiv:2507.16705)</a>.
 - Testing Algebraic Complete Intersections: Algorithmic Implementation and Numerical Experiments. <em>(In preparation)</em>.
 - Sampling Implicit Manifolds from Equations. <em>(In preparation)</em>.
 
