@@ -32,12 +32,13 @@
 </head>
 <body>
 
+<!-- Menu -->
 <div class="menu-container">
     <nav>
         <ul>
-            <li><a href="https://aleetamai.github.io">Home</a></li>
-            <li><a href="https://aleetamai.github.io/talks&carrer">CurriculumVitae</a></li>
-            <li><a href="https://aleetamai.github.io/works">Research</a></li>
+            <li><a href="https://aleetamai.github.io/">Home</a></li>
+            <li><a href="https://aleetamai.github.io/curriculum">Curriculum</a></li>
+            <li><a href="https://aleetamai.github.io/research">Research</a></li>
         </ul>
     </nav>
 </div>
