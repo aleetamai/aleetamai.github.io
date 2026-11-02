@@ -47,9 +47,11 @@
 
 <!-- MAIN  -->
 
+## Upcoming Events
+- "Metric Algebraic Geometry: Going Global"- ICERM, Brown University, Providence, RI (USA), Jan.–Apr. 2027
+Selected for three-month funded participation in the semester program.
 
 ## Conferences and Seminars 
-
 - _"Mathematics of Machine Learning 2025"_ conference at TU Hamburg,  Hamburg (Germany)  (Poster);
 - _"New challenges across Analysis and Geometry"_ conference at SISSA, Trieste (Italy)  (Speaker);
 - _"Metric Algebraic Geometry"_ conference at KTH, Stockholm (Sweden), November 2024 (Speaker);
@@ -61,6 +63,7 @@
 - _"From Statistical Physics to Random Geometry"_  conference at SISSA, Trieste (Italy), on September 2022  (Attended);
 
 ## Schools and Masterclass
+- _"Iliad Intensive-October 2026"_ One month research school in AI Safety, San Francisco (U.S.) (Attended);
 - _“Peer-to-peer Science Communication”_ (SISSA Scicom Masterclass) June 2025
 - _"Quantinuum Quantum Hackathon"_ at  ICTP, Trieste  (Italy), on April 2023 (Attended);
 - _"Random Matrices, Random Graphs and Statistical Physics for Machine Learning and Inference"_ at ICTP Trieste (Italy), on May 2022 (Attended);
