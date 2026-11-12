@@ -49,7 +49,7 @@
 
 ## Upcoming Events
 - *[An Introduction to the Mathematical Foundations of AI Safety](https://sites.google.com/view/mathaisafetysissa)* - SISSA, Trieste (Italy), Nov. 16–27, 2026  
-  *(Participant and workshop instructor: "Introduction to LLMs and Belief Geometry".)*
+  *(Participant; leading a lecture and hands-on lab on "Introduction to LLMs and Belief Geometry".)*
 
 - *"Metric Algebraic Geometry: Going Global"* - ICERM, Brown University, Providence, RI (USA), Jan.–Apr. 2027  
   *(Selected for funded participation throughout the semester-long program.)*
