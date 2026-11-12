@@ -52,8 +52,7 @@
   *(Participant and workshop instructor: "Introduction to LLMs and Belief Geometry".)*
 
 - *"Metric Algebraic Geometry: Going Global"* - ICERM, Brown University, Providence, RI (USA), Jan.–Apr. 2027  
-  *(Selected for funded participation throughout the semester program.)*
-
+  *(Selected for funded participation throughout the semester-long program.)*
 
 ## Conferences and Seminars 
 - _"Mathematics of Machine Learning 2025"_ conference at TU Hamburg,  Hamburg (Germany)  (Poster);
