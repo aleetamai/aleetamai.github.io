@@ -113,7 +113,7 @@ During my Ph.D., I developed a background in differential topology and machine l
 </p>
 
 <p style="color:black;">
-Recently my research interests have shifted toward AI safety, with a particular focus on mechanistic interpretability and the mathematical foundations of large language models (LLMs).
+Recently, my research interests have shifted toward AI safety, with a particular focus on mechanistic interpretability and the mathematical foundations of large language models (LLMs).
 </p>
 
 <p style="text-align: justify;">
