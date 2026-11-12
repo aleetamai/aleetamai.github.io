@@ -134,7 +134,7 @@ Some specific papers: <em><a href="https://arxiv.org/abs/1310.0425" target="_bla
 <!-- Dove mi trovo -->
 <div class="row">
     <div class="column right" style="background-color:white;">
-        <h2 style="color:black;">Where I am (right now):</h2>
+        <h2 style="color:black;">SISSA Research Center:</h2>
         <p style="color:black;">
             SISSA research center in Trieste (Italy).
         </p>
