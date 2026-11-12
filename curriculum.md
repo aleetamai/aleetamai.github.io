@@ -48,8 +48,9 @@
 <!-- MAIN  -->
 
 ## Upcoming Events
-- "Metric Algebraic Geometry: Going Global"- ICERM, Brown University, Providence, RI (USA), Jan.–Apr. 2027
-Selected for three-month funded participation in the semester program.
+- "Metric Algebraic Geometry: Going Global" - ICERM, Brown University, Providence, RI (USA), Jan.–Apr. 2027  
+  *(Selected for three-month funded participation in the semester program.)*
+
 
 ## Conferences and Seminars 
 - _"Mathematics of Machine Learning 2025"_ conference at TU Hamburg,  Hamburg (Germany)  (Poster);
