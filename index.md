@@ -109,9 +109,13 @@
 <div class="column right" style="background-color:white;">
 <h2 style="color:black;">Research Interests:</h2>
 <p style="color:black;">
-With a background in differential topology and machine learning, during my Ph.D. I focused on applying differential topology, real algebraic geometry, and Morse theory to statistical learning theory, particularly in manifold learning and neural network theory.
+During my Ph.D., I developed a background in differential topology and machine learning, exploring applications of geometric and topological methods, particularly real algebraic geometry and Morse theory, to statistical learning theory, with a focus on manifold learning and neural network theory.
 </p>
-    
+
+<p style="color:black;">
+Recently my research interests have shifted toward AI safety, with a particular focus on mechanistic interpretability and the mathematical foundations of large language models (LLMs).
+</p>
+
 <p style="text-align: justify;">
 More broadly, the following informal list collects results and topics I’ve encountered during my career and found most fascinating. In classical mechanics, the <a href="https://en.wikipedia.org/wiki/Liouville%E2%80%93Arnold_theorem" target="_blank">Liouville–Arnold theorem</a> and the <a href="https://en.wikipedia.org/wiki/Kolmogorov%E2%80%93Arnold%E2%80%93Moser_theorem" target="_blank">KAM theorem</a>; in random geometry and probability, the <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method" target="_blank">Monte Carlo methods</a> , <a href="https://www3.nd.edu/~lnicolae/Kac_Rice.pdf" target="_blank">Kac–Rice formula</a>, <a href="https://en.wikipedia.org/wiki/Random_matrix" target="_blank">random matrix theory</a>, and the theory of <a href="https://en.wikipedia.org/wiki/Spin_glass" target="_blank">spin glasses</a>—especially the <a href="https://en.wikipedia.org/wiki/Replica_trick" target="_blank">Parisi replica method</a> and its connections with information theory and machine learning; in symplectic and differential geometry, the <a href="https://terrytao.wordpress.com/2013/02/08/the-harish-chandra-itzykson-zuber-integral-formula/" target="_blank">Harish–Chandra–Itzykson–Zuber integral</a>, the <a href="https://en.wikipedia.org/wiki/Duistermaat%E2%80%93Heckman_formula" target="_blank">Duistermaat–Heckman theorem</a>, and <a href="https://en.wikipedia.org/wiki/Connection_(principal_bundle)" target="_blank">Cartan’s theory of connections</a> on principal bundles; and in geometry and topology, the <a href="https://en.wikipedia.org/wiki/Weyl%27s_tube_formula" target="_blank">Weyl tube formula</a> for real and Kähler manifolds, the classification of <a href="https://en.wikipedia.org/wiki/Semisimple_Lie_algebra" target="_blank">semisimple Lie algebras</a>, and the <a href="https://en.wikipedia.org/wiki/Morse_theory" target="_blank">Morse theory</a> of critical points.
 </p>
