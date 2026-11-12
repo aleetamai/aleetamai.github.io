@@ -74,7 +74,7 @@
 ## Career
 - Ph.D. (cum laude) in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), 1 April 2026_
 - Postgraduate Fellowship in Geometry and Mathematical Physics, _SISSA, Trieste (Italy), April 2021 - July 2021_
-- Master's degree in Mathematics, title  "Singular Solutions of Rolling Balls Model: a Topological View", _University of Trieste, Trieste (Italy), 2017-2020_
+- Master's degree in Mathematics (cum laude), title  "Singular Solutions of Rolling Balls Model: a Topological View", _University of Trieste, Trieste (Italy), 2017-2020_
 - Bachelor's degree in Mathematics, title "Introduzione alla Teoria delle Perturbazioni di Sistemi Hamiltoniani Autonomi" _University of Trieste, Trieste, Italy, 2014-2017_
 - Erasmus program at "UCL: Univ. Catholique de Louvain-La-Neuve", _Louvain-la-Neuve, Belgium, Sept. 2017- Feb. 2017_
 - Diploma of Perito Chimico, _Istituto Superiore Statale "Giorgi-Fermi", Treviso (Italy), 2009-2014_
